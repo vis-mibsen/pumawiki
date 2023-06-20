@@ -1,4 +1,0 @@
-====== uddannelsesprofil: Løsladelsessituation ======
-{{:dialogs:klient_profil:klient_profil_uddannelse_loesladelse.jpg?800|}}\\
-
-Sektionen udfyldes ved løsladelse

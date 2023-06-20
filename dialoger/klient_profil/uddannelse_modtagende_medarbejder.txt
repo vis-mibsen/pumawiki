@@ -1,4 +1,0 @@
-====== Uddannelsesprofil: udfyldes af modtagende medarbejder ======
-
-{{:dialogs:klient_profil:klient_profil_uddannelse_modtag.jpg?800|}}\\
-Denne sektion udfyldes af modtagende medarbejder.

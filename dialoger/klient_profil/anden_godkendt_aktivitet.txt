@@ -1,9 +1,0 @@
-====== Anden godkendt aktivitet profil ======
-
-{{:dialogs:klient_profil:klient_profil_aga.jpg?800|}}
-
-I Profilen registreres klientens børn under 18 år.
-
-Der er mulighed for at tilføje noter i Øvrige oplysninger.\\
-
-Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter|aktiviteter]] for profilen
