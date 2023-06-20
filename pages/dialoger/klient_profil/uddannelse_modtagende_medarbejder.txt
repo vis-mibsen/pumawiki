@@ -1,4 +1,30 @@
 ====== Uddannelsesprofil: udfyldes af modtagende medarbejder ======
 
-{{:dialogs:klient_profil:klient_profil_uddannelse_modtag.jpg?800|}}\\
-Denne sektion udfyldes af modtagende medarbejder.
+{{:dialogs:klient_profil:klient_profil_uddannelse_modtag.jpg?1000|}}\\
+
+Denne sektion udfyldes af modtagende medarbejder. 
+Sektionen skal udfyldes, og i tilfælde af at klienten er udvisningsdømt kan det vælges på samtlige spørgsmål.
+
+==== Har klienten afsluttet folkeskolens afgangsprøve? ====
+Dette spørgsmål er til for at afklare om klienten har gennemført folkeskolens afgangsprøve.
+Hvis folkeskolens afgangsprøve er gennemført og det er angivet at bevises er indhentet, skal beviset uploades.
+
+==== Ønske om uddannelse/undervisning under indsættelse ====
+Dette spørgsmål er til for at afklare om klienten ønsker uddannelse eller undervisning.
+
+==== Ønske om uddannelsesvejledning under indsættelse ====
+Dette spørgsmål er til for at afklare om klienten ønsker uddannelsesvejledning.
+
+==== Afsluttet voksenuddannelse inden seneste indsættelse ====
+Her er det muligt at vælge blandt flere forskellige voksenuddannelser.
+
+{{:dialoger:klient_profil:klient_profil_udd_redigerfag.png?400|}}
+
+==== Afbrudt uddannelse/kursusforløb pga. frihedsberøvelsen ====
+Her er det muligt at vælge blandt flere forskellige uddannelser og kursusforløb.
+
+{{:dialoger:klient_profil:klient_profil_udd_redigerfag02.png?400|}}
+
+==== Højeste gennemførte uddannelse udover grundskole ====
+Dette spørgsmål er til for at afklare hvilket uddannelsesniveau klienten har forinden indsættelsen.
+Det er muligt at besvare med alle uddannelsesniveauer efter folkeskolen, eller op til flere muligheder for ikke at besvare spørgsmålet.
