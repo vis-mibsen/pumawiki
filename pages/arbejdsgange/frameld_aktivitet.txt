@@ -1,0 +1,7 @@
+====== Frameld aktivitet ======
+Hvis en klient er tilmeldt en aktivitet uden slutdato (for tilmeldingen) eller hvis klienten ønskes frameldt før den planlagte slutdato, kan klienten frameldes aktiviteten manuelt: \\
+I klientens [[dialoger:klient_aktivitetsoverblik|aktivitetsoverblik]], klik på den ønskede aktivitet. Herved åbned tilmeldingsdetaljer dialog:\\
+{{:dialogs:aktivitet_tilmeldingsdetaljer.jpg?600|}}\\
+Klik på "Frameld aktivitet" for at gå til framelding:\\
+{{:arbejdsgange:aktivitet_tilmeldingsdetaljer_frameld.jpg?600|}}\\
+I frameldingen skal brugeren vælge hvilken dato klienten frameldes fra: Dette er sidste dag klienten deltager i aktiviteten. Derudover skal brugen angive "årsag til klientens frameling" og "klientens status ved afslutning af aktiviteten". Sammen kaldes dette valg "afslutningsårsag".

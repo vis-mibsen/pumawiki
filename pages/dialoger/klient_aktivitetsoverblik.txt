@@ -25,4 +25,9 @@ I listen over aktivitere vises:
   * Tidspunkt (klientens tilmeldings skema)
   * Tilmeldingsstatus
 
+==== Tilmeldingsdetaljer/Framelding ====
+Ved at klikke på en aktivitetstitel i aktivitetsoversigten åbnes tilmeldingsdetaljer dialogen:\\
+{{:dialogs:aktivitet_tilmeldingsdetaljer.jpg?600|}}\\
+Herfra kan aktiviteten [[arbejdsgange:frameld_aktivitet|frameldes]].
+
 Nederst er en knap/genvej til [[dialoger:tilmeld_fra_klient|tilmelding aktivitet]]
