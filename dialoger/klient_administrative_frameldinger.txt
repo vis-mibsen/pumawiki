@@ -1,0 +1,22 @@
+====== Administrative frameldinger ======
+<WRAP navbox>
+Klienter->Aktiviteter->Administrative frameldinger
+</WRAP>
+{{:dialoger:klient_aktiviteter_administrative_frameldinger.jpg?1000|}}\\
+===== Hændelser =====
+
+I Dialogen Administrative frameldinger vises til venstre en liste over hændelser der har frameldt klientens aktiviteter.
+
+Der vises hændelse, dato og hvilke aktiviteter der er blevet frameldt. ved klik på "Fortryd" vil frameldingen ophæves.
+
+
+===== Framelding =====
+Til højre har brugeren selv mulighed for at framelde klientens aktiviteter. der skal væklges en årsag og en start samt slutdato:
+
+Hvis hændelsen giver anledning til permanent framelding (løsladelse...) vil frameldingen ske dagen før startdato; Hvis hændelsen derimod giver anledning til framelding i er periode (strafcelle) vil fremeldingen sker dagen før startdo til og med slutdato, hvorefter klienten igen vil være tilmeldt
+
+<WRAP center round important 60%>
+Der er pt. en fejl i PUMA som gør at man altid skal udfylde både start og slutdato
+</WRAP>
+
+

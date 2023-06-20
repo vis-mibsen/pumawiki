@@ -1,0 +1,41 @@
+<WRAP group>
+<WRAP column>
+{{:pageicons:a_img.png?150|}}
+</WRAP>
+<WRAP column>
+====== Arbejdsgange======
+Se funktioner i PUMA ud fra forskellige arbejdsgange.
+</WRAP>
+</WRAP>
+
+=== Aktiviteter ===
+[[dialoger:opret_aktivitet|Opret aktivitet]]\\
+[[dialoger:tilmeld_aktivitet|Tilmeld til aktivitet]]\\
+Frameld aktivitet\\
+[[arbejdsgange:tidsregistrering|Tidsregistrer aktivitet]]\\
+Evaluer tilmelding\\
+[[arbejdsgange:rediger_aktivitet|Rediger aktivitet]]\\
+Slet aktivitet\\
+Aflys aktivitet\\
+Rediger samarbejdspartnere\\
+
+=== Klienter ===
+Udfyld profiler\\
+Tilmeld til aktivitet\\
+Frameld aktivitet\\
+Timeregistrer aktivitet\\
+
+=== Rapporter ===
+Brug manglede klarmelding\\
+Brug afdelingsliste\\
+Brug deltageliste\\
+Brug mangellisten\\
+brug PUMA-Listen\\
+Brug aktivitetskapacitet listen\\
+
+=== Instruktøre ===
+[[dialoger:instruktoer|Opret instruktør]]\\
+[[dialoger:instruktoer|Tildel kompetencer]]\\
+[[dialoger:instruktoer|Rediger instruktør / Opdater fra AD]]\\
+
+

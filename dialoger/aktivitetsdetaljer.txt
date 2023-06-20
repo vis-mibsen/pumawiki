@@ -1,0 +1,27 @@
+====== Aktivitetsdetaljer ======
+{{:dialogs:activity_detail_detail.jpg?800|}}\\
+
+I denne dialog kan man se detaljer om aktiviteten:\\
+  * Aktivitetstittel
+  * Matrikkel
+  * Registreringskode
+  * Instruktøre
+  * Aktivitetsbeskrivelse
+  * Stamaktivitet
+  * Tilmeldingstype
+  * Aktivitetsperiode
+  * Aktivitetsskema
+  * Niveau (for uddannelsesaktiviteter)
+  * Aflysninger
+Herudover kan man:
+  * Se stamaktivitetsdetaljer
+  * Tidsregistrere
+  * Evaluere 
+  * Redigere samarbejdspartnere
+  * [[dialoger:tilmeld_aktivitet_fra_aktivitet|Tilmelde klienter]]
+  * Kopiere aktiviteten
+  * [[dialoger:aktivitet_redigering|Redigere aktiviteten]]
+  * Slette eller afslutte aktiviteten
+  * Aflyse aktiviteten
+  * Se deltagerlisten
+

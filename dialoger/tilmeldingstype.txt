@@ -1,0 +1,18 @@
+====== Tilmeldingstyper ======
+
+der findes 4 tilmeldingstyper:
+  * Fast startdato
+  * Rullende optag
+  * Fleksibel deltagelse
+  * Basisaktivitet
+
+Fast startdato er tiltænkt aktiviteter hvor klienter skal deltage i hele aktiviteten: fra den starter til den slutter, og alle aktivitetens timer.\\
+
+Rullende optag er tiltænkt aktiviteter hvor klienten skal deltage i alle aktiviteten timer, men kan begynde efter at aktiviteten er startet.
+
+Fleksibel deltagelse giver mulighed for at tilmelde klienten i en periode og evt. kun en delmængde af timerne. Dette er praktisk dels hvor klienten kan få udbytte af aktiviteten selvom denne kun deltager i en del af den, og dels hvor Instruktøren har individuelle samtaler med klienter: Hver klient tilmeldes så sit tidsinterval på aktiviteten.
+
+Basisaktivitet er en aktivitet som altid har 37 timer om ugen. Dog kan klienten tilmeldes andre (ikke basis)aktiviteter samtidig: disse vil så blive prioriteret højere end basisaktiviteten (se [[prioriteter|prioriteter]])\\
+
+For tilmeldingstyperne "Fast startdato" og "Rullende optag" **skal** der angives et (maks) deltagerantal, for de to andre deltagertyper **kan** der angives et maks detltagerantal. For "Fast startdao" kan der ikke tilmeldes mere end det angivne antal klienter, for "Rullende optag" kan der ikke tilmeldes mere and det angivne antal klienter //samtidigt//. Hvis en sådan aktivitet maks har 2 deltager men vare 4 uger, kan der f.eks godt tilmelde 2 klienter de 2 første uger, og så 2 andre klienter i de sidste 2 uger. For fleksibel deltagelse og basisaktivitet beregnes antal deltager som for rullende optage: Dvs at selvom en klient tilmeldes om formiddagen og en anden klient om eftermiddagen på samme dag, tæller det som 2 klienter hele dagen.
+

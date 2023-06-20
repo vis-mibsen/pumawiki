@@ -1,0 +1,67 @@
+====== Opret aktivitet ======
+
+Nye aktiviteter/hold oprettes på en af 2 måder:\\
+1) [[opret_aktivitet_som_kopi|ved kopi af eksisterende aktivitet]]\\
+2) ved at vælge "aktiviteter" i hovedmenubåndet, og herunder "opret aktivitet"\\
+
+Den ønskede matrikel vælges og en passende stamaktivitet fremsøges hvorefter der kan trykkes op "opret aktivitet"
+
+{{:dialogs:create_activity.jpg?nolink&400|}}
+===== Aktivitetsdetaljer =====
+==== Aktivitetstittel ====
+
+Aktiviteten navngives altid efter stamaktiviteten, for at undgå forvirring om hvad aktiviteten er.
+Herudover kan brugene give aktiviteten en frit valgt aktivitetstittel. I puma vises aktiviteter som:\\
+friteksttittel:stamaktivitet\\
+f.eks:\\
+dansk hold 4(onsdag): AVU - Dansk\\
+
+==== Niveau ====
+For uddannelsesaktiviteter skal angives et niveau. Hvis der planlægges at tilmelde klienter med forskelligt niveau kan der vælges "blandet". for blandende hold vil der skulle vælges niveau for den enkelte klient ved tilmelding til aktiviteten.
+
+==== Matrikel ====
+her vises hvilken matrikel aktiviteten foregår på.
+
+==== Registreringskode ====
+Her vælges hvilken registreringskode tidsregistrering skal ske på. Det mulige registreringskoder bestemmes i KØLS (ud fra stamaktiviteten) og har betydning for det interne regnskab.
+
+==== Lokale ====
+Fritekstfelt til angivelse af hvor aktiviteten afholdes. Kan vises på de fleste lister med aktiviteter.
+
+==== Tilmelding ====
+Her vælges aktivitetens [[tilmeldingstype|tilmeldingstype]]
+
+==== Antal pladser ====
+For aktivitere med tilmeldingstyper "fast startdato" og "rullende optag" **skal** vælges et maks deltagerantal.
+Når en klient forsøges tilmeldt en aktivitet tjekker PUMA om der er plads; dvs. at maks samtidigt deltagerantal ikke bliver overskredet.
+For aktiviteter med tilmeldingstype "basisaktivitet" og "fleksibel deltagelse" **kan** der angives et maks deltager antal, som PUMA så vil overholde.\\
+Set også [[dialoger:tilmeldingstype|tilmeldingstyper]] for mere information omkring deltager antal.
+
+==== Instruktør ====
+Her vælges mindst en instruktør til aktiviteten/holdet.
+der kan vælges blandt de instruktøre som har stamaktiviteten som kompetance (se instruktøre). Ved afkrydsning i "alle matrikler" kan der også vælges instruktøre der ikke er fast knyttet til aktivitetens matrikel.
+
+
+==== Aktivitetsbeskrivelse ====
+Her kan angives en beskrivelse af aktiviteten. For visse stamaktiviteter er beskrivelse forudfyldt, men kan redigeres.
+
+
+===== Aktivitetsskema =====
+
+I højre side af dialoge vælges en startdato.
+For visse [[tilmeldingstype|tilmeldingstyper]] **skal** der også vælges en slutdato
+Herefter vælges aktivitetens skema.
+For alle tilmeldingstyper kan der vælges et ugeskema der gentages indtil aktiviteten afsluttes. For aktiviteter med fast startdato og rullende optag kan vælges variabelt ugeskema:\\
+Der kan så oprettes et antal skemaer som gælder en eller flere uger.\\
+For en aktivitet der vare 4 uger kan der f.eks laves 4 forskellge ugeskemaer, eller der kan laves 2 to-ugesskemaer, eller et tre-ugerskema og et et-ugeskema...
+
+
+===== Samarbejdspartnere i frihed =====
+Hvis aktiviteten har  en samarbejdspartner i frihed kan den tilføjes ved at klikke på "Tilføj samarbejdspartner i frihed"
+
+
+
+
+
+
+

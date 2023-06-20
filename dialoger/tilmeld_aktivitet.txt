@@ -1,0 +1,10 @@
+====== Tilmeld aktivitet ======
+Klienter kan tilmeldes en aktivitet enten fra aktiviteten, eller fra klientens aktivitetsoverblik.\\
+  * [[dialoger:tilmeld_aktivitet_fra_aktivitet|Fra aktivitet]]
+  * [[dialoger:tilmeld_fra_klient|Fra klientens aktivitetsoverblik]]
+
+
+[[dialoger:tilmeld_aktivitet_dialog|Hop direkte til tilmeldingsdialogen]]
+
+
+

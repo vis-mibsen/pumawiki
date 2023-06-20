@@ -1,0 +1,23 @@
+====== Arbejdsprofil ======
+
+{{:dialogs:klient_profil:klient_profil_arbejde.jpg?800|}}
+
+Over selve profilen vises behov der er relevante for profilen, samt LS/RNR score (pt. ikke implementeret).\\
+Selve arbejdsprofilen består af afsnittet "Grundlæggende informationer"\\
+
+  * Var klienten i arbejde ved indsættelsen: ja/nej
+  * Kørekort: Her vælges alle gyldige kørekort klienten har erhvervet (alternartivt: nej / ved ikke)
+  * Kendte barrierer for arbejde: Fysiske eller psykiske barrierer, allergiver 8alternativt nej / ikke oplyst)
+
+===== Erhvervserfaring og tidligere beskæftigelse =====
+Her tilføjes alle beskæftigelser/erhvervserfaringer. Der vælges fra en liste over anerkendte stillingsbetegnelser. Stillingsbetagnelserne er listet alfabetisk, med ved at skrive i "Søg efter beskæftigelse" feltet, filteres efter input: "bager" giver f.eks "Bager", "Bageriarbejder", "Bagerlærling"...\\ For hver erhvervserfaring angives længden (0-6 mdr, 6mdr - 1 år...) samt om beskæftigelsen var faglært eller ufaglært.\\
+Hvis en passende stillingsbetagnelse ikke kan findes, kan "andet" anvendes (skriv evt. en bemærkning under Øvrige oplysninger"
+===== Løsladelsessituation =====
+
+Klientens situation ved løsladelse vælges. Der kan tilføjes en kort bemærkning.
+
+===== Øvrige oplysninger =====
+
+Der er mulighed for at tilføje noter i Øvrige oplysninger.\\
+
+Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter|dokumenter og aktiviteter]] for profilen
