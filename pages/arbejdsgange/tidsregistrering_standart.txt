@@ -1,0 +1,9 @@
+====== Standart tidsregistrering ======
+Når en aktivitet ikke i forvejen er tidsregistreret for klienten på dagen, vil PUMA foreslå en standart registrering når tidsregistrerings dialogen åbnes. Det er også denne standart tidregistrering der anvendes når funktionerne "indsend til godkendelse" og "indsend alle til godkendelse" anvendes ved [[arbejdsgange:tidsregistrering_aktivitet|tidsregistrering fra en aktivitet]].\\
+
+Som udgangspunkt foreslås den pågældende aktivitet i det tidsrum klienten er tilmeldt. PUMA tager dog højde for en række situationer:\\
+På søn- og helligdage foreslås "lovligt fravær, Lukket pga søgnehelligdag", dog ikke for aktiviterene: "gangmand", "Ønsker ej arbejde" samt Frigang.\\
+Hvis aktiviteten er aflyst foreslås "lovligt fravær, Arb. plads lukket" i det tidsrum hvor aktiviteten er aflyst.\\
+Hvis klienten samtidig er tilmeldt en anden aktivitet med højere prioritet registreres ikke for det tidsrum hvor der er overlap.\\
+
+Ved manuel tidsregistrering kan brugeren altid vælge noget andet end den foreslåede tidsregistrering.\\

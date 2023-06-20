@@ -1,0 +1,36 @@
+====== Behov ======
+
+Klienters behov udspringer som hovedregel af klientens afsoningsplan, som laves på baggrund af LS/RNR score.\\
+Klientens afsoningsplan vises på klientens [[dialoger:klient_stamdata|stamdataside]] og de tilsvarende behov kan vælges ved [[dialoger:tilmeld_aktivitet|tilmelding til en aktivitet]] eller [[dialoger:venteliste_opskrivning|opskrivning til venteliste]]\\
+
+Varetægtsfængslede får ikke lavet afsoningsplan, og afsonere kan mangle behov, der ikke er afdækket af afsoningsplanen eller opstået efter afsoningsplanen er lavet. Disse behov kan oprettes i PUMA: Dels i klientens profiler, sels ved tilmelding til aktivitet eller opskrivning til venteliste. Behov oprettet i PUMA hedder ad-hoc behov.
+
+Behov oprettet i PUMA kan slettes i PUMA, mens behov fra afsoningsplanen ikke kan slettes.\\
+
+Når en klient tilmeldes en aktivitet eller opskrives på en venteliste ud fra et behov holder PUMA øje med status af behovet.
+
+===== Opret PUMA/ ad-hoc behov =====
+{{:dialogs:opret_behov.jpg?600|}}\\
+I dropdown kan vælges et af de behov klienten ikke har i forvejen. Når behovet er valgt trykket "Tilføj" i dialogen.\\
+{{:dialogs:tilfoej_behov.jpg?600|}}\\
+
+Når alle de ønskede behov er tilføjet, trykkes "luk".\\
+
+===== Slet fejloprettede PUMA behov =====
+Hvis et ad-hoc/PUMA-behov er oprettet ved en fejl kan det slettes fra klientens stamdataside:\\
+Scrol ned til behov og tryk på "slet" ud for behovet:\\
+{{:dialogs:stamdata_behov_slet.jpg?600|}}\\
+Tryk "slet behov" i dialogen der fremkommer.
+
+===== Behovs status =====
+Når der foretages noget med aktiviteter/ventelister på baggrund af behov holder PUMA øje med behovets status:\\
+
+Behov starter med at være "oprettet" Dette markeres med en rød cirkel med et udråbstegn i.
+
+
+
+
+
+
+
+

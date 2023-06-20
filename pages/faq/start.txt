@@ -1,0 +1,23 @@
+<WRAP group>
+<WRAP column>
+{{:pageicons:questionmark_img.png?150|}}
+</WRAP>
+<WRAP column>
+====== Ofte stillede spørgsmål======
+Andre end dig har spurgt om det samme.
+</WRAP>
+</WRAP>
+==== PUMA ====
+Hvad er PUMA ?\\
+++PUMA er| et online system til planlægning og registrering af resocialiserende indsatser for indsatte.Navnet kommer af de beskæftigelsesområder PUMA dækker: Programvirksomhed, Uddannelse, Misbrugbehandling, Arbejde. Herudover er der 2 yderligere områder: Anden godkendt aktivitet og Fritid & interesser++ \\
+
+Hvordan bruger man PUMA ?\\
+++PUMA åbnes i en browser| fra [[http://puma.kriminalforsorgen.net|her]] Se også PUMAs opbygning [[dialoger:dialogstruktur|her]] og mere om PUMAs dialoger [[dialoger:start|her]]++
+
+==== Opret aktivitet ====
+Hvor opretter jeg en aktivitet i PUMA\\
+++Aktiviteter oprettes| enten ud fra en stamaktivitet (Aktiviteter opret aktivitet), eller som kopi af en eksisterende aktivitet(Aktiviteter, find aktivitet) se mere [[dialoger:opret_aktivitet|her]] ++
+
+Hvad betyder basisaktivitet\\ 
+++Basisaktivitet betyder| at en aktivitet er en basisaktivitet betyder at den skal dække 37 timer om ugen, og at tilmeldinger af andre aktiviteter automatisk prioriteres højere end basisaktiviteten når der er overlap++
+

@@ -1,0 +1,43 @@
+====== Misbrugsbehandlingsprofil ======
+{{:dialogs:klient_profil:klient_profil_misbrugsbehandling.jpg?800|}}
+
+Over selve profilen vises behov der er relevante for profilen, samt LS/RNR score (pt. ikke implementeret).\\
+Selve misbrugsbehandlingsprofilen består af afsnittet "Grundlæggende informationer"\\
+
+===== Misbrugsprofil =====
+
+  * Klienten har indtaget rusmidler indefor 30 dage... : I forbindelse med udgang foretages urinprøvekontrol (se [[https://www.retsinformation.dk/eli/retsinfo/2016/9818|undersøgelsesvejledningen]]). Da prøven kan give udslag op til 30 dag efter indtagelse markeres her om der forventes positivt svar.
+  * Klienten ønsker behandling: hvis klienten udtrykker ønske om behandling noteres det her, og behandlingsgaranti træder i kraft. Hvis ikke klienten har defineret et behov for misbrugsbehandling, oprettes et behov automatisk.
+
+===== Rusmiddelprofil =====
+
+Under "rusmiddel" kan tilføjes de rusmidler der er relevante for klienten. For hvert rusmidel kan angives hyppighed, indtagelsesmåde, debutalder samt varighed af misbruget. Der skal vælges et "præferencestof". Klietens brug af rusmidler er relevant for planlægningen af misbrugsbehandlingsforløbet.
+
+===== Øvrige oplysninger =====
+
+Der er mulighed for at tilføje noter i Øvrige oplysninger.\\
+
+===== Periode for behandlingsgaranti =====
+ Hvis profilen er udfyldt efter klienten har givet udtryk for ønske om behandling, kan startdato for behandlingsgarantiperiode sættes tilbage.
+
+===== Årsager til overskredet/ikke startet/afsluttet =====
+Indtil behandlingen startes kan der angives en grund til at behandlingen ikke startes (f.eks klienten er ikke længere motiveret).\\
+Hvis behandlingsgarantiperioden er overskredet angives årsagen hertil.
+Når behandlingsforløbet skal afsluttes angives årsagen/status for behandlingsforløbet.\\
+{{:dialoger:klient_profil:klient_profil_misbrug_aarsager.jpg?1000|}}\\
+
+===== Historik for behandlingsforløb =====
+Nuværende og tidligere misbrugsforløb listes her. For hvert forløb vises:
+  * garantistart
+  * garantislut
+  * behandling startdato
+  * behandling slutdato
+  * status
+  * sidst opdateret af
+  * initierende institution
+  * antal aktiviteter
+Ved at klikke på et forløb "foldes" det ud, og alle tilknyttede aktiviteter kan ses.
+
+===== Dokumenter =====
+
+Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter|dokumenter og aktiviteter]] for profilen

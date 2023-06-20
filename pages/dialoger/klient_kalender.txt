@@ -1,0 +1,26 @@
+====== Aktivitetskalender ======
+<WRAP navbox>
+Klient->Aktiviteter->Kalender
+</WRAP>
+{{:dialoger:klient_aktiviteter_kalender.jpg?1000|}}\\
+===== Overblik over aktiviteter fordelt på beskæftigelsesområde =====
+
+I kalenderoverblikket vises til venstre en liste over aktiviteter, med tilhørende farvekoder (beskæftigelsesområde).\\
+===== Kalender =====
+
+Til højre vises en kalender hvor klientens aktiviteter er indsat.\\
+Kalenderen tager højde for aflysninger og højere prioriterede aktiviteter, samt administrative ændringer ("status") som strafcelle, hospitalsindlæggelse mv.
+
+Kalenderen giver derfor et godt overblik over klientens aktiviteter.
+
+Som udgangspunkt vises indeværende uge: der kan bladres til foregående/efterfølgende uge med knapperne BLACK-LEFT-POINTING-TRIANGLE og BLACK-RIGHT-POINTING-TRIANGLE Desuden kan vælges mellem dag- uge- eller månedsvisning.
+
+Hvis man er kommet langt væk fra indeværende uge, kan man komme tilbage med klik på "Gå til i dag"
+
+===== Timeopgørelse =====
+
+Forneden opgøres antal timer der er tilmeldt.
+
+===== Tilmeld  ny aktivitet =====
+Nederst er knap/genvej til [[dialoger:tilmeld_fra_klient|aktivitetstilmelding]]
+

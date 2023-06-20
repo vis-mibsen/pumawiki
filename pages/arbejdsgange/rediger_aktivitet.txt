@@ -1,0 +1,33 @@
+====== Rediger aktivitet ======
+
+===== Muligheder/begrænsninger =====
+
+En aktivitet kan redigeres, med visse begrænsninger:\\
+Før der er klienter tilmeldt til aktivitete kan alle felter redigeres:\\
+  * Aktivitetstitel
+  * Uddannelses niveau (hvs uddannelsesaktivitet)
+  * Registreringskode
+  * Lokale
+  * [[dialoger:tilmeldingstype|Tilmeldingstype]]
+  * Antal pladser
+  * Instruktører
+  * Aktivitetsbeskrivelse
+  * Startdato
+  * Slutdato
+  * Aktivitetsskema
+Hvis der er tilmeldt klienter (også selvom klienterne er frameldt igen) kan kun disse felter redigeres:
+
+  * Aktivitetstitel
+  * Uddannelses niveau (hvis uddannelsesaktivitet)
+  * Lokale
+  * Antal pladser
+  * Instruktører
+  * Aktivitetsbeskrivelse
+ Hvis aktiviteten er med variabelt ugeskema, kan dette redigeres med følgende begrænsninger:\\
+
+  * Der kan ikke redigeres perioder hvor der er tidregistreret
+  * Der kan ikke laves ændringer der skaber konflikt med tilmeldte klienters eksisterende aktivitetstilmeldinger
+
+===== Alternativer =====
+En ny aktivitet kan oprettes som kopi af en eksisterende aktivitet. Den nye aktivitet har ikke tilmeldte klienter og kan frit redigeres (ved oprettelsen, eller inden klienbter tilmeldes)
+===== Redigering =====

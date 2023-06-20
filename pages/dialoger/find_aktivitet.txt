@@ -1,0 +1,24 @@
+====== Find aktivitet ======
+{{:dialogs:find_activity1.jpg?nolink&800|}}
+
+Under aktiviteter vises øverst i dialogen "Mine aktiviteter" Dette er aktiviteter som brugeren er instruktør på.\\
+Nedenunder er der mulighed for at fremsøge aktiviteter.\\
+{{:dialogs:find_activity2.jpg?nolink&800|}}
+
+Der kan filtreres på:\\
+  * Beskæftigelsesområde
+  * Aktivitetsnavn ([[dialoger:wildcard|wildcardsøgning]])
+  * Område
+  * Matrikel
+  * Aktivitetsstatus
+  * Aktivitetesperiode
+  * Kun aktiviteter brugeren er instruktør på
+For at lette overskueligheden kan man fravælge at få vist instruktøre og/eller tidspunkter
+
+====== Links ======
+I mange dialoger i PUMA vises lister af aktiviteter: I de fleste af disse dialoger er aktivitetsnavnet et link til aktivitetsdetaljedialogen:\\
+{{:dialoger:klient_aktiviteter.jpg?1000|}}\\
+Her vil et klik på aktivitetstitel åbne aktivitetsdetaljer dialogen:\\
+{{:dialogs:activity_detail_detail.jpg?800|}}\\
+test
+

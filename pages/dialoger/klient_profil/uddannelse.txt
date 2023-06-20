@@ -1,0 +1,15 @@
+====== Uddannelsesprofil ======
+{{:dialogs:klient_profil:klient_profil_uddannelse.jpg?800|}}
+
+Over selve profilen vises behov der er relevante for profilen, samt LS/RNR score (pt. ikke implementeret).
+Selve uddannelsesprofilen består af afsnittet „Grundlæggende informationer“:
+  * [[dialoger:klient_profil:uddannelse_modtagende_medarbejder|Udfyldes af modtagende medarbejder]]
+  * [[dialoger:klient_profil:uddannelse_fvu_dansk_obu|Udfyldes af FVU dansk/OBU lærer]]
+  * [[dialoger:klient_profil:uddannelse_fvu_matematik|Udfyldes af FVU matematik lærer]]
+  * [[dialoger:klient_profil:uddannelse_fvu_obu|Udfyldes af FVU/OBU lærer]]
+  * [[dialoger:klient_profil:uddannelse_vejleder_avu|Udfyldes af Vejleder/AVU-lærer]]
+  * [[dialoger:klient_profil:uddannelse_loesladelse|Løsladelsessituation]]
+
+Der er mulighed for at tilføje noter i Øvrige oplysninger.\\
+
+Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter|dokumenter og aktiviteter]] for profilen

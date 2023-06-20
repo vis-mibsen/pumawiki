@@ -1,0 +1,45 @@
+====== Klient stamdata ======
+{{:dialogs:client_detail1.jpg?nolink&1000|}}\\
+På øverste del af klientens stamdataside vises, til venstre, informationer om klienten (hovedsageligt fra KlientSystemet). Her vises også om klienten har opnået [[dialoger:tillaeg|stabilitets- og kompetancetillæg]]
+
+Til højre vises klientens ventelisteopskrivninger, og hvis klienten har en afsoningsplan, vises de behov der er identificeret i denne.\\
+
+Nedenunder vises klientens [[dialoger:behov|behov]], tilmeldte aktiviteter og informationer om "samarbejdspartnere i frihed" (der vises samarbejdspartnere i frihed for de uafsluttede aktiviteter klienten er tilmeldt)
+{{:dialogs:client_detail2.jpg?nolink&1000|}}\\
+===== Afsoningsdata =====
+  * Matrikel: klientens nuværende matrikel ((For stamdata for tidligere indsætteælser vises daværende matrikel))
+  * Afdeling: klientens nuværende afdeling ((For stamdata for tidligere indsætteælser vises daværende afdeling))
+  * Celle: klientens nuværende celle ((For stamdata for tidligere indsætteælser vises daværende celle))
+  * Status: om klienten er anholdt, varetægtsfængslet, afsoner...
+  * Hovedkriminalitet: typen af kriminalitet (for afsonere)
+  * Statsborgerskab
+  * Indsættelsesdato
+  * Straflængde
+  * Fuld tid
+  * 2/3 Dato
+  * Strafberegning: grafisk fremstilling af hvor langt en afsoner er i afsoning
+==== Tillæg ====
+Se [[dialoger:tillaeg|tillæg]]
+
+===== Afsoningsplan =====
+For afsonere med en vis straflængde udarbejdes en afsoningsplan. I PUMA vises de behov/indsatser der indgår i afsoningsplanen, med prioriteter.
+
+===== Ventelister =====
+Hvis klienten er opskrevet på ventelister vises det her: Der er mulighed for at gå til de pågældende ventelister, eller direkte til klientens opskrivningsdetaljer.\\
+Se også : [[dialoger:ventelister|ventelister]]
+
+===== Behov =====
+Her vises både behov fra afsoningsplan og ad-hoc behov oprettet i PUMA. Status for behov er indikeret både med ikon og tekst.\\
+Fejloprettede ad-hoc behov kan slettes, og afsluttede behov kan vises.\\
+Se også : [[arbejdsgange:behov|behov]]
+
+===== Tilmeldte aktiviteter =====
+Her vises en liste over klientens tilmeldte aktiviteter, samt klientens primære aktivitet. Der er genveje til klientens aktivitetskalender og aktivitetsoverblik (filtreret efter den valgte aktivitet)
+
+===== Samarbejdspartnere i frihed =====
+Hvis klienten er tilmeldt en eller flere aktiviteter med samarbejdspartnere i frihed, vises samarbejdspartnerne her.
+
+
+
+
+

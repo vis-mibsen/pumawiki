@@ -1,0 +1,14 @@
+====== Find klient(er) ======
+Klienter kan fremfindes fra siden klienter, Find klient.\\
+
+{{:dialogs:client_search.jpg?nolink&800|}}\\
+der kan søges efter et eller flere kriterer:\\
+  *Fornavn
+  *Efternavn
+  *CPR
+  *Celle
+  *Aktiv/passiv status
+  *Afdeling
+Klientens område+matrikel skal altid angives.
+
+Ved klik på klientens navn åbnes klientens [[dialoger:klient_stamdata|stamdataside]]
