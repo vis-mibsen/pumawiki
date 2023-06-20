@@ -20,5 +20,5 @@ I mange dialoger i PUMA vises lister af aktiviteter: I de fleste af disse dialog
 {{:dialoger:klient_aktiviteter.jpg?1000|}}\\
 Her vil et klik på aktivitetstitel åbne aktivitetsdetaljer dialogen:\\
 {{:dialogs:activity_detail_detail.jpg?800|}}\\
-test
+
 
