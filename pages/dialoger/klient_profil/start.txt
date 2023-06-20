@@ -9,4 +9,3 @@ Profilerne tilgås under Klienter -> Puma-profil\\
   * [[dialoger:klient_profil:arbejde|Arbejde]]
   * [[dialoger:klient_profil:anden_godkendt_aktivitet|Anden godkendt aktivitet]]
   * [[dialoger:klient_profil:fritif_og_interesse|Fritid & interesse]]
-  * lalala
