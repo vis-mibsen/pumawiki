@@ -14,3 +14,6 @@ Der kan filtreres på:\\
   * Aktivitetesperiode
   * Kun aktiviteter brugeren er instruktør på
 For at lette overskueligheden kan man fravælge at få vist instruktøre og/eller tidspunkter
+
+====== Links ======
+I mange dialoger i PUMA vises lister af aktiviteter
