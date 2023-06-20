@@ -1,7 +1,30 @@
 ====== Frameld aktivitet ======
 Hvis en klient er tilmeldt en aktivitet uden slutdato (for tilmeldingen) eller hvis klienten ønskes frameldt før den planlagte slutdato, kan klienten frameldes aktiviteten manuelt: \\
+===== Manuel framelding =====
+
 I klientens [[dialoger:klient_aktivitetsoverblik|aktivitetsoverblik]], klik på den ønskede aktivitet. Herved åbned tilmeldingsdetaljer dialog:\\
 {{:dialogs:aktivitet_tilmeldingsdetaljer.jpg?600|}}\\
 Klik på "Frameld aktivitet" for at gå til framelding:\\
 {{:arbejdsgange:aktivitet_tilmeldingsdetaljer_frameld.jpg?600|}}\\
 I frameldingen skal brugeren vælge hvilken dato klienten frameldes fra: Dette er sidste dag klienten deltager i aktiviteten. Derudover skal brugen angive "årsag til klientens frameling" og "klientens status ved afslutning af aktiviteten". Sammen kaldes dette valg "afslutningsårsag".
+
+===== Afslutning af aktivitet =====
+Hvis en aktivitet afsluttes, skal der angives en afslutningsårsag for alle klienter der stadig er tilmeldt aktiviteten. Disse frameldinger vil så virke som manuelle frameldinger for hver klient.
+
+===== Automatisk framelding =====
+Ved hændelse, så som løsladense og overførsel, frameldes klienten automatisk sine aktiviteter.
+
+Hvis klienten er løsladt på én sag, men fortsætter varetægt/afsoning på en anden sag kan det være upraktisk at klienten bliver frameldt sine aktiviteter. I dette tilfælde kan frameldingerne "fortrydes" via "[[dialoger:klient_administrative_frameldinger|Administrative frameldinger]]" 
+
+
+===== Midlertidige frameldinger (strafcelle) =====
+Ved idømmelse af strafcelle er klienten ofte ikke i stand til at deltage i (de fleste af) sine aktiviteter. Da strafcelle kan remonstreres framelder PUMA ikke automatisk klienten, men brugeren har mulighed for dette via "[[dialoger:klient_administrative_frameldinger|Administrative frameldinger]]" 
+
+===== Fremtidige framelding vs. aktuel framelding =====
+Hvis frameldingsdato angives som en dato der ligger bagud i tid, effektueres frameldingen med det samme:\\
+aktivitetstilmeldingens status ændres til "afsluttet".\\
+Afslutningsårsagen kobles til aktivitetstilmeldingen.\\
+
+Hvis frameldingsdato angives som dags dato, eller senere, sker frameldingen ikke med det samme: Frameldingsdato og afslutningsårsag huskes af PUMA, og når frameldingsdatoen er overskredet effektueres frameldingen. Indtil da vil frameldingsårsagen være synlig på klientens tilmeldingsdetaljer:\\
+{{:arbejdsgange:aktivitet_tilmeldingsdetaljer_frameldingsaarsag.jpg?600|}}\\
+Hvis frameldingen fortrydes inden den effektueres kan den fortrydes her: Bemærk dog at dette kræver at klienten ikke er tilmeldt overlappende aktiviteter

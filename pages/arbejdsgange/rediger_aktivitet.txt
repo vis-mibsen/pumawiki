@@ -29,5 +29,10 @@ Hvis der er tilmeldt klienter (også selvom klienterne er frameldt igen) kan kun
   * Der kan ikke laves ændringer der skaber konflikt med tilmeldte klienters eksisterende aktivitetstilmeldinger
 
 ===== Alternativer =====
-En ny aktivitet kan oprettes som kopi af en eksisterende aktivitet. Den nye aktivitet har ikke tilmeldte klienter og kan frit redigeres (ved oprettelsen, eller inden klienbter tilmeldes)
+En ny aktivitet kan [[dialoger:opret_aktivitet_som_kopi|oprettes som kopi]] af en eksisterende aktivitet. Den nye aktivitet har ikke tilmeldte klienter og kan frit redigeres (ved oprettelsen, eller inden klienter tilmeldes)
 ===== Redigering =====
+[[dialoger:find_aktivitet|Fremfind aktiviteten]]\\
+I aktivitetsdetaljer dialogen klik "Rediger aktivitet"\\
+{{:dialogs:activity_detail_detail.jpg?600|}}\\
+Aktiviteten kan nu redigeres. Se [[dialoger:opret_aktivitet|oprettelse af aktivitet]] for de forskellige felters betydning.
+

@@ -20,8 +20,8 @@ Herudover kan man:
   * Redigere samarbejdspartnere
   * [[dialoger:tilmeld_aktivitet_fra_aktivitet|Tilmelde klienter]]
   * Kopiere aktiviteten
-  * [[dialoger:aktivitet_redigering|Redigere aktiviteten]]
-  * Slette eller afslutte aktiviteten
+  * [[arbejdsgange:rediger_aktivitet|Redigere aktiviteten]] 
+  * Slette eller [[dialoger:afslut_aktivitet|afslutte]] aktiviteten
   * Aflyse aktiviteten
   * Se deltagerlisten
 
