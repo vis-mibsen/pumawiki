@@ -3,10 +3,9 @@ cache
 index
 locks
 log
-media_attic
+meta
 tmp
 .htaccess
 _dummy
 deleted.files
 dont-panic*
-meta
