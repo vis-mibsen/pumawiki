@@ -1,0 +1,22 @@
+<WRAP group>
+<WRAP column>
+{{:pageicons:r_img.png?150|}}
+</WRAP>
+<WRAP column>
+====== Roller ======
+Se funktioner i PUMA ud fra brugerens forskellige roller.
+</WRAP>
+</WRAP>
+
+===== Aktiviteter =====
+Lærer
+----
+Misbrugsbehandler
+----
+Nyansat
+----
+Områdeleder
+---
+Værkfører
+----
+
