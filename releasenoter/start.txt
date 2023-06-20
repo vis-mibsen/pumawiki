@@ -1,0 +1,12 @@
+<WRAP group>
+<WRAP column>
+{{:pageicons:n_img.png?150|}}
+</WRAP>
+<WRAP column>
+====== Releasenoter======
+Se de nyeste ændringer i PUMA, og tidligere releasenotes.
+</WRAP>
+</WRAP>
+
+{{ releasenotes:puma_5.2.0_-_releasenote_1.1.docx |}}
+

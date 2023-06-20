@@ -1,0 +1,13 @@
+====== Aktivitets prioriteter ======
+
+En klient kan ikke være tilmeldt 2 aktiviteter (med samme prioritet) samtidig.\\
+Da der kan være brug for at tilmelde en aktivitet "ind over" en anden kan aktiviteter prioriteres:
+
+Basisaktiviteter har altid laveste prioritet. En klient kan ikke være tilmeldt 2 basisaktivitere samme dag.
+
+Almindelig tilmelding har næstlaveste prioritet: De tager præcedens over basisaktiviteter.
+
+Prioriteret tilmelding kan anvendes til programvirksomhed der skal ske i stedet for (en del af) en almindelig tilmeldt aktivitet
+
+Misbrugsbehandling har altid højeste prioritet
+

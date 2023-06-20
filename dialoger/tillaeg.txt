@@ -1,0 +1,16 @@
+====== Stabilitets- og kompetancetillæg ======
+
+Efter en periode med stabilt fremmøde på hovedarbejdsplada, opnår klienten stabilitetstillæg, og herefter kompetancetillæg.\\
+Tillæggene styres fra klientens [[dialoger:klient_stamdata|stamdataside]] \\
+{{:dialogs:tillaeg1.jpg?nolink&600|}}\\
+Klientens kan gives tillæg "på forventning" ved at sætte startdato for tillæg til den dato hvor man forventer at kliernten opnår tillæg. Tillæg træder først i kraft den dato der er angivet.\\
+Ved ændring af tillæg (tillægt gives, dato ændres, tillæg fjernes) kan gives en kommentar, som vises sammen med ændringen i historikken over tillæg. Kommentar til sidste ændring vises desuden når musen bevæget over (!) efter "VIS HISTORIK"\\
+
+redigering:\\
+{{:dialogs:tillaeg3.jpg?nolink&600|}}\\
+Historik:\\
+{{:dialogs:tillaeg4.jpg?nolink&600|}}\\
+seneste kommentar:\\
+{{:dialogs:tillaeg2.jpg?nolink&600|}}
+
+

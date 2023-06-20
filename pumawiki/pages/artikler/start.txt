@@ -1,0 +1,21 @@
+====== [H1] Forside til forside ting ======
+
+===== [H2] underoverskrift =====
+
+==== [H3] underunderoverskrift ====
+
+=== [H4] ===
+
+== [H5] ==
+
+= [H6] =
+
+
+----
+
+
+Hernede finder du seje ting med flere punkter
+  * Punkt 1
+  * HTH
+  * El giganten
+  * [[Artikelside|Artikelside]]
