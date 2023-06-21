@@ -2,3 +2,26 @@
 
 {{:dialogs:klient_profil:klient_profil_uddannelse_dansk.jpg?600|}}\\
 Denne sektion udfyldes af FVU dansk/OBU lærer
+
+== Har klienten fået foretaget FVU-screening inden for de sidste 2 år? ==
+Indledende for denne sektion; angiv om klienten har fået foretaget FVU-screening inden for 2 år.
+
+== Har klienten andet modersmål end dansk? ==
+Simpel afklaring for om klientens modersmål er andet end dansk.
+
+== Er der tidligere foretaget ordblindescreening: ==
+En tjekboks for at angive om klienten har fået foretaget en ordblindescreening.
+
+== Udredning ifm. ordblindhed gennemført: ==
+Denne tjekboks er til for at angive om udredning i forhold til ordblindhed er gennemført.
+
+== Usikker fonologisk kodning ==
+Denne tjekboks angiver om klienten har vanskeligheder i forhold til fonologisk kodning.
+
+== Er ordblind: ==
+Simpel tjekboks på om klienten er ordblind.
+
+== Hvordan synes du selv, at du klarer dig på dansk? ==
+Dette punkt indeholder 4 under-spørgsmål for at afdække hvor klienten kunne have vanskeligheder med skriftligt dansk.
+
+

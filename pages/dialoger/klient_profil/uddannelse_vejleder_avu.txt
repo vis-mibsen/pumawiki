@@ -1,3 +1,12 @@
 ====== Udfyldes af vejleder/AVU lærer ======
 {{:dialogs:klient_profil:klient_profil_uddannelse_vejleder_avu.jpg?800|}}\\
 Sektionene udfyldes af vejleder/AVU lærer
+
+== Behov for niveautest: ==
+Her angives de områder hvorved klienten har behov for niveautest.
+
+== I målgruppe: ==
+Her angives det niveau klienten er i målgruppe for.
+
+== Testresultat: ==
+Her angives resultaterne efter testen er gennemført for de angivne områder.

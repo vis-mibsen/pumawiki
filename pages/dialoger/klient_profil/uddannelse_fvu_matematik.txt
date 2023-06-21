@@ -1,3 +1,12 @@
 ====== Udfyldes af FVU matematik lærer ======
 {{:dialogs:klient_profil:klient_profil_uddannelse_matematik.jpg?800|}}\\
-Sektionen udfyldes af FVU matematik lærer
+Sektionen udfyldes af FVU matematik lærer.
+
+== Hvordan synes du selv, at du er til at regne og bruge matematik? ==
+4 forskellige svar for at give et overordnet svar på klientens egen holdning til hans evner inden for matematik.
+
+== Hvad synes du selv, at du er god til i regning/matematik? ==
+Dette felt giver mulighed for at klienten kan uddybe en bemærkning på de matematik emner vedkommende er gode til.
+
+== Hvad synes du selv, at du er dårlig til i regning/matematik? ==
+Dette felt giver mulighed for at klienten kan uddybe en bemærkning på de matematik emner vedkommende er dårlig til.

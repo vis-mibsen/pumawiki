@@ -1,3 +1,18 @@
 ====== Udfyldes af FVU/OBU lærer ======
 {{:dialogs:klient_profil:klient_profil_uddannelse_fvu_obu.jpg?800|}}\\
 Sektionene udfyldes af FVU/OBU lærer
+
+== Behov for screening ==
+Tjekbokse til at markere de områder hvor klienten har behov for screening.
+
+== Behov for samtale ==
+Tjekbokse til at markere de områder hvor klienten har behov for samtale.
+
+== I målgruppe? ==
+Mulighed for at angive om klienten er i målgruppe inden for de forskellige FVU/OBU områder.
+
+== Resultater for screening: ==
+Denne række dækker over resultater fra de områder der har tilhørende screening.
+For FVU - Engelsk og FVU - Digital, gælder der en trinplacering der kan angives ved at klikke REDIGER.
+
+
