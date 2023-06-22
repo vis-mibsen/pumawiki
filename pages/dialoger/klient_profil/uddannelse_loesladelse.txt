@@ -2,3 +2,12 @@
 {{:dialogs:klient_profil:klient_profil_uddannelse_loesladelse.jpg?800|}}\\
 
 Sektionen udfyldes ved løsladelse
+
+== Afsluttet uddannelse under indsættelse ==
+Her skal det angives om klienten har afsluttet en uddannelse under indsættelsen, er det ikke relevant kan det markeres i tjekboksen ved siden af.
+
+== Planlagt uddannelse efter løsladelse ==
+Er det tilfældet at klienten skal tilmeldes uddannelse efter løsladelsen, angives det her, og er klienten tilmeldt markeres det i tjekboksen ved siden af
+
+== Bemærkning ==
+Her er mulighed for at give en bemærkning for klientens uddannelsesforløb. Det kunne være en besked relateret til planlægningen af uddannelse efter løsladelsen.
