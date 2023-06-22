@@ -1,6 +1,6 @@
 ====== Udfyldes af FVU dansk/OBU lærer ======
 
-{{:dialogs:klient_profil:klient_profil_uddannelse_dansk.jpg?600|}}\\
+{{:dialogs:klient_profil:klient_profil_uddannelse_dansk.jpg?1000|}}\\
 Denne sektion udfyldes af FVU dansk/OBU lærer
 
 == Har klienten fået foretaget FVU-screening inden for de sidste 2 år? ==

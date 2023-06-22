@@ -6,5 +6,5 @@ Under [[dialoger:aktivitetsdetaljer|aktivitetsdetaljer]] kan man afslutte en akt
 {{:dialoger:aktivitet_afslut.jpg?600|}}\\
 Ved afslutning af aktivitet anvives afslutningsdato: Dette er sidste dag aktiviteten afholdes.
 
-Man kan vælge at anvige samme afslutninsårsag for alle klienter ("Angiv standardstatus") eller at angive individuelle afslutningsårsager for hver klient
+Man kan vælge at angive samme afslutninsårsag for alle klienter ("Angiv standardstatus") eller at angive individuelle afslutningsårsager for hver klient
 

@@ -16,7 +16,7 @@ der kan søges efter:\\
   * Instruktøre der er knyttet til en specifik matrikel
   * Aktive eller inaktive instruktøre
 
-Ved søgning vises instruktøre med alle deres relevante kompetaecer.
+Ved søgning vises instruktøre med alle deres relevante kompetencer.
 
 Ved at klikke på instruktørens navn kan instruktøren redigeres:
 ===== Redigering =====

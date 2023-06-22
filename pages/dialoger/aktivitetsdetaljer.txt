@@ -15,8 +15,8 @@ I denne dialog kan man se detaljer om aktiviteten:\\
   * Aflysninger
 Herudover kan man:
   * Se stamaktivitetsdetaljer
-  * Tidsregistrere
-  * Evaluere 
+  * [[arbejdsgange:tidsregistrering_aktivitet|Tidsregistrere]]
+  * [[dialoger:aktivitet_evaluering|Evaluere]] 
   * Redigere samarbejdspartnere
   * [[dialoger:tilmeld_aktivitet_fra_aktivitet|Tilmelde klienter]]
   * Kopiere aktiviteten

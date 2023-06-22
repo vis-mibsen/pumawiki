@@ -15,4 +15,10 @@ Historikken viser ændringer i tillæg: Der vises klientens daværende matrikel,
 seneste kommentar:\\
 {{:dialogs:tillaeg2.jpg?nolink&600|}}
 
+===== Tillæg i tidsregistreringen =====
+
+[[dialoger:manuel_tidsregistrering|Tidsregistreringen]] vil automatisk give tillæg ud fra datoerne bestemt på stamdatasiden.\\
+Der gives ikke stabilitets/kompetencetillæg på akkordarbejde og ulovligt fravær. Herudover kan brugeren selv fjerne stabilitets/kompetence hvor det i situationen ikke skal gives.
+
+
 

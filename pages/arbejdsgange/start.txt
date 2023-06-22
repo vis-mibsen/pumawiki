@@ -9,11 +9,12 @@ Se funktioner i PUMA ud fra forskellige arbejdsgange.
 </WRAP>
 
 === Aktiviteter ===
+[[dialoger:find_aktivitet|Find aktivitet]]\\
 [[dialoger:opret_aktivitet|Opret aktivitet]]\\
 [[dialoger:tilmeld_aktivitet|Tilmeld til aktivitet]]\\
-Frameld aktivitet\\
+[[arbejdsgange:frameld_aktivitet|Frameld aktivitet]]\\
 [[arbejdsgange:tidsregistrering|Tidsregistrer aktivitet]]\\
-Evaluer tilmelding\\
+[[dialoger:aktivitet_evaluering|Evaluer tilmelding]]\\
 [[arbejdsgange:rediger_aktivitet|Rediger aktivitet]]\\
 Slet aktivitet\\
 Aflys aktivitet\\

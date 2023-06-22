@@ -10,7 +10,7 @@ Dialogen tilbyder 3 registreringsfunktionaliteter:
   - Manuel registrering for en enkelt klient
   - Automatisk registrering for en enkelt klient
   - Automatisk registrering for alle klienter der ikke har tidsregistreret aktiviteten den pågældende dag.\\
-Ved begge automatiske tidsregistreringer registreres [[arbejdsgange:tidsregistrering_standart|stardard registrering]]. Bemærk: Automatisk tidsregistrering tilbydes ikke for akkordaktiviteter.
+Ved begge automatiske tidsregistreringer registreres [[arbejdsgange:tidsregistrering_standard|stardard registrering]]. Bemærk: Automatisk tidsregistrering tilbydes ikke for akkordaktiviteter.
 
 Manuel registrering aktiviveres ved at klikke på "Registrer" ud for den ønskede klient. Dette bruges også til at rette en eksisterende tidsregistrering.
 

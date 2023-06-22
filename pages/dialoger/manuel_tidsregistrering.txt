@@ -1,7 +1,7 @@
 ===== Manuel tidsregistrering =====
 Manuel tidsregistrering sker via tidsregistrerings detail dialogen:\\
 {{:dialogs:tidsregistrering_eksempel1.jpg?800|}}\\
-Når dialogen åbner, er den forudfyldt med "[[arbejdsgange:tidsregistrering_standart|standard registrering]]" Her registreres basisaktiviteten "gangmand", men klienten er tilmeldt en anden aktivitet (med højere prioritet) mellem kl 8 og 10. Derfor er dette tidsrum "reserveret" den anden aktivitet.\\
+Når dialogen åbner, er den forudfyldt med "[[arbejdsgange:tidsregistrering_standard|standard registrering]]" Her registreres basisaktiviteten "gangmand", men klienten er tilmeldt en anden aktivitet (med højere prioritet) mellem kl 8 og 10. Derfor er dette tidsrum "reserveret" den anden aktivitet.\\
 ==== Fravær / anden aktivitet ====
 
 Fra detailsiden kan der tilføjes fravær og anden aktivitet ved at trykke på den relevante knap. her tilføjes lovlig fravær (besøg) kl 14 - 15:30:\\

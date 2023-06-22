@@ -3,8 +3,39 @@
 
 En aktivitet kan kopieres til en ny aktivitet.\\
 Dette kan anvendes hvis en aktivitet skal afløses af en anden aktivitet (med andet skema, andet navn) eller man blot vil lave en aktivitet der minder om en eksisterende.\\
-Funktionaliteten kan også anvendes hvis en aktiviet er oprettet forkert, og man vil spare tid ved at oprette som kopi (med retelser).\\
+Funktionaliteten kan også anvendes hvis en aktiviet er oprettet forkert, og man vil spare tid ved at oprette som kopi (med rettelser).\\
 Når der vælges at kopiere en aktivitet får brugeren valget mellem at slette/afslutte den originale aktivitet og kopiere, eller kun at kopiere.\\
 PUMA giver mulighed for at slette eller afslutte den originale aktivitet alt efter om der er timeregistreret/tilmeldt på den originale aktivitet.\\
 
-Når en aktivitet oprettes som kopi, forudfyldes dialogen med detaljer fra den originale aktivitet, men brugeren har mulighed for at redigere/ændre alt: se [[dialoger:opret_aktivitet|opret aktivitet]]
+Når en aktivitet oprettes som kopi, forudfyldes dialogen med detaljer fra den originale aktivitet, men brugeren har mulighed for at redigere/ændre alt: se [[dialoger:opret_aktivitet|opret aktivitet]]\\
+
+{{:dialogs:activity_detail_detail.jpg?800|}}\\
+
+Når man trykker på "Kopiér aktivitet" kommer der en dialog hvor man har mulighed for at afslutte/slette aktiviteter, eller kun at kopiere.\\
+
+{{:dialoger:kopier_aktivitet_slet.jpg?600|}}\\
+
+
+{{:dialoger:kopier_aktivitet_afslut.jpg?600|}}\\
+
+===== Slet/afslut og kopier=====
+
+Mulighed for at slette/afslutte stemmer med hvad hvad man kan fra aktivitetsdetaljedialogen: Hvis der er tilmeldte klienter kan aktiviteten afsluttes, ellers kan den slettes.
+
+Hvis der vælges afslut og kopier, føres brugeren først til [[dialoger:afslut_aktivitet|aktivitetsafslutninsdialogen]]; Når aktivitetn er afsluttet fortsættes med kopiereing.
+
+Hvis der vælge Slet aktivitet og kopier, slettes aktiviteten for der fortsættes til kopiering.
+
+<WRAP center round important 60%>
+OBS: vær opmærksom på at hvis der vælges Slet aktivitet og kopier, slettes aktiviteten med det samme: Selvom kopieringen fortrydes, er den originale aktivitet slettet.
+</WRAP>
+
+Når sletning/afslutning er sket går man til kopiering.
+
+===== Kopier =====
+
+Hvis der vælges "Nej kopier kun" går man direkte til kopiering:\\
+Dialogen [[dialoger:opret_aktivitet|opret aktivitet]] åbnes med indkopierede værdier for alle felter, inkl skema (også hvis aktiviteten har variabelt ugeskema) Dog kopieres samarbejdspartnere i frihed ikke til den nye aktivitet.
+
+
+

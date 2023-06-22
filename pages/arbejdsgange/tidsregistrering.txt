@@ -11,4 +11,6 @@ Tidsregistrering fra klienten giver mulighed for at tidsregistrere samtidig med 
 
 Hop direkte til [[dialoger:manuel_tidsregistrering|manuel tidsregistrering]].
 
+Se også: [[arbejdsgange:klarmelding|klarmelding af timer]]
+
                            

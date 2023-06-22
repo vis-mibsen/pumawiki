@@ -1,0 +1,53 @@
+====== Evaluering af aktivitetstilmelding ======
+
+Alt efter aktivitetens type tilmeldes klienter med eller uden slutdato: For aktiviteter der kun varer kort tid (f.eks samtaler) vil klienten typisk blive tilmeldt med en slutdato (evt. samme dato som startdato); For aktiviteter der består af et længere forløb vil klienter til tider blive tilmeldt uden slutdato.
+
+Hvis en klient er tilmeldt uden slutdato, kræver det at instruktøren framelder klienten. Ved framelding skal der angives en afslutningsårsag. Hvis klienten derimod er tilmeldt med slutdato, vil klienten automatisk blive frameldt aktiviteten. I disse tilfælde skal instruktøren evaluere klientens aktivitetsforløb.
+
+Der kan evalueres fra og med sidste dag klienten er tilmeldt. Evalueringer sker fra aktiviteten:\\
+<WRAP navbox>
+Aktiviter->Find aktivitet-> (aktivitetstitel)->Evalueringer\\
+Rapporter->Mangel-liste->(Manglende evaluering)->Åbn
+</WRAP>
+{{:dialoger:aktivitet_evaluering.jpg?1000|}}\\
+
+Her vises de klienter der mangler evaluering. Hver klient kan så evalueres ved at klikke på "Evaluer":\\
+
+{{:dialoger:aktivitet_evaluering_aarsag.jpg?1000|}}\\
+Der vælges en årsagsgruppe, og herunder en årsag
+  * Gennemført
+    * Gennemført
+  * Afvigende adfærd
+    * Vold, trusler om vold
+    * Ny kriminalitet
+    * Undvigelse
+    * Diciplinærstraf
+    * Anden afvigende adfærd
+  * Afsoningsrelateret
+    * Løsladelse/ Prøveløsladelse
+    * Overførsel
+    * Andet beskæftigelsestilbud
+    * Flyttet til ligenende aktivitet på anden afdeling
+    * Flyttet til andet hold (administrativ ændring)
+  * Andet
+    * Dødsfald
+    * Sygdom
+    * Selvvalgt
+    * Fungere ikke på holdet
+    * Flyttet afdeling
+    * intern logistik
+  * Hold nedlagt
+    * Hold nedlagt
+    * Fejloprettet aktivitet
+    * Fejltilmelding af klient
+    * Hold omlagt 
+  * Mangelede deltagelse
+    * Manglende deltagelse
+    * Manglende motivation
+    * Aldrig mødt
+
+===== Manglende evalueringer =====
+Hver aktivitet har som vist ovenfor en fane der viser klienter der mangler evaluering. Hvis man ikke ved hvilke aktiviteter der mangler evalueringher på, man man anvende [[dialoger:rapporter_mangelliste|mangellisten (Manglende evaluering)]]
+
+
+ 

@@ -51,6 +51,8 @@ Her kan angives en beskrivelse af aktiviteten. For visse stamaktiviteter er besk
 I højre side af dialoge vælges en startdato.
 For visse [[tilmeldingstype|tilmeldingstyper]] **skal** der også vælges en slutdato
 Herefter vælges aktivitetens skema.
+==== Uge skema ====
+
 For alle tilmeldingstyper kan der vælges et ugeskema der gentages indtil aktiviteten afsluttes. For aktiviteter med fast startdato og rullende optag kan vælges variabelt ugeskema:\\
 Der kan så oprettes et antal skemaer som gælder en eller flere uger.\\
 For en aktivitet der vare 4 uger kan der f.eks laves 4 forskellge ugeskemaer, eller der kan laves 2 to-ugesskemaer, eller et tre-ugerskema og et et-ugeskema...
