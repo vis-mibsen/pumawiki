@@ -7,10 +7,19 @@ Hvis klienten skal beholdes på venteliste afkrydses feltet.
 
 Start og slutdato for klientens deltagelse vælges.
 
-For basisaktiviter, fast startdato og rullende optag bliver klienten automatisk tilmeldt det skema der er for aktiviteten. For aktioviteter med fleksibel deltagelse kan brugeren vælge de dela af aktivitetens skema klienten skal deltage i. ved hjælp af "+" og "-" kanpper kan der vælges flere (del) perioder for de enkelte dage.
+For basisaktiviter, fast startdato og rullende optag bliver klienten automatisk tilmeldt det skema der er for aktiviteten. For aktioviteter med fleksibel deltagelse kan brugeren vælge de dela af aktivitetens skema klienten skal deltage i. ved hjælp af "+" og "-" knapper kan der vælges flere (del) perioder for de enkelte dage.
 
 For uddannelsesaktiviteter hvor niveauet er "blandet" vil brugeren også blive bedt om at angive klientens niveau:\\
-{{:dialogs:aktivitet_tilmeld_blandet_niveau.jpg?600|}}
+{{:dialogs:aktivitet_tilmeld_blandet_niveau.jpg?600|}}\\
+
+===== Overlap med andre aktiviteter =====
+En klient kan ikke være tilmeldt to samtidige aktiviteter med samme [[dialoger:prioriteter|prioritet]].\\
+Hvis brugeren forsøger at tilmelde en ikke-misbrugs aktivitet samtidig med en anden aktivitet advares brugeren, og får mulighed for at tilmelde [[dialoger:prioriteter|prioriteret]]
+
+En klient kan ikke være tilmeldt to basisaktiviteter samtidig: PUMA giver dog mulighed for [[arbejdsgange:basisaktivitet_afloesning|automatisk at afløse en basisaktivitet med en anden.]]
+
+==== Undtagelse: fritid & interesser ====
+Aktiviteter under beskæftigelsesområdet Fritid & interesser skal som udgangspunkt placeres uden for normal arbejdstid. En fritids/interesseaktivitet kan dog godt foregå samtidig med en anden aktvitet: Klienten delteger i princippet så i begge aktiviteter samtidigt, og begge skal tidsregistreres (Fritid & interesse aktivitere er dog ikke dusørgivende og overføres ikke ti KØLS)
 
 ===== Effekter af tilmelding =====
 ==== Tilmeldingsstatus ====

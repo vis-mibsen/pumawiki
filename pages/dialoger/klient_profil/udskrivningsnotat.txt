@@ -5,3 +5,6 @@ Under misbrugsbehandlingsprofilen vises både "almindelige" dokumenter og udskri
 Udskrivningsnotater oprettes i en form, så brugen blot skal udfylde de forudbestemte felter.\\
 Et udskrivningsnotat kan låses når det oprettes, ellers kan det redigeres i 48 timer, eller indtil det låses.\\
 
+{{:dialoger:klient_profil:klient_profil_misbrugsbehandling_udskrivningsnotat_top.jpg?600|}}\\
+{{:dialoger:klient_profil:klient_profil_misbrugsbehandling_udskrivningsnotat_bund.jpg?600|}}
+

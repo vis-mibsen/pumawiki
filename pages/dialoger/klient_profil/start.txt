@@ -1,11 +1,17 @@
 ====== Klient profiler ======
-
+<WRAP navbox>
+Klienter->Puma-profil
+</WRAP>
 {{:dialogs:klient_profil.jpg?800|{{:dialogs:klient_profil.jpg?400|}}\\
 Hver klient har en profil for hvert beskæftigelsesområde.\\
-Profilerne tilgås under Klienter -> Puma-profil\\
+
   * [[dialoger:klient_profil:programvirksomhed|Programvirksomhed]]
   * [[dialoger:klient_profil:uddannelse|Uddannelse]]
   * [[dialoger:klient_profil:misbrugsbehandling|Misbrugsbehandling]]
   * [[dialoger:klient_profil:arbejde|Arbejde]]
   * [[dialoger:klient_profil:anden_godkendt_aktivitet|Anden godkendt aktivitet]]
   * [[dialoger:klient_profil:fritif_og_interesse|Fritid & interesse]]
+
+Profilerne skal udfyldes dels af modtagende medarbejdere, dels af fagmedarbejder (lærer, programvirsomhedmedarbejder...) Profilerne giver overblik over klientens situation og understøtter tilrettelæggelse og gennemførsel af resocialiserende forløb.
+
+De fleste af informationerne i profilerne kan også ses i [[dialoger:puma_listen|Puma-Listen]]

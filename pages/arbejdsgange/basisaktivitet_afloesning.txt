@@ -1,0 +1,10 @@
+====== Automatisk afløsning af basisaktivitet ======
+
+Hvis der forsøges at tilmelde en aktivitet der overlapper en anden vil brugere normalt blive gjort opmærksom på konfliktet (og evt. tilbudt at tilmelde [[dialoger:prioriteter|prioriteret]]).
+
+Basisaktivitere opfører sig anderledes: hvis man forsøger at tilmelde en ny basisaktivitet uden at framelde den eksisterende vil PUMA gøre opmærksom på dette, og tilbyde at afsluttet klientens tilmelding til den eksisterende basisaktivitet:\\
+{{:arbejdsgange:tilmeld_basisaktivitet_overlap1.jpg?800|}}\\
+Hvis brugeren bekræfter, kan der komme endnu en advarsel:\\
+{{:arbejdsgange:tilmeld_basisaktivitet_overlap2.jpg?800|}}\\
+Her får brugeren mulighed for at slette klientens tidsregistreringen for den eksisterende basisaktivitet i den periode hvor klienten nu bliver tilmeldt den nye basisaktivitet. Det kan være praktisk hvis klienten ikke er blevet tilmeldt den nye basisaktiviet i PUMA på det tidspunkt hvor klienten skiftede  basisaktivitet, og ved en fejl er tidsregistreret på den gamle basisaktivitet.
+

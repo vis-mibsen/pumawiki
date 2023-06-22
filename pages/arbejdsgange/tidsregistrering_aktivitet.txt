@@ -1,60 +1,20 @@
 ====== Tidsregistrering fra aktivitet ======
+<WRAP navbox>
+Aktiviter->Find aktivitet-> (aktivitetstitel)->Tidsregistrering\\
+Klienter->Aktivitetsoverblik-> (aktivitetstitel)->Gå til aktivitetsdetaljer->Tidsregistrering
+</WRAP>
 Fra aktivitetens aktivitetsdetaljer dialog klikkes "Tidsregistrering":\\
 {{:arbejdsgange:aktivitet_tidsregistrering.jpg?1000|}}\\
-Dialogen viser hvilke dager der mangler at blive tidsregistreret på, inden for de sidste 2 uger. Default vælges den første dag i perioden hvor der mangler tidsregistrering for en eller flere klienter på aktiviteten. brugeren kan vælge hvilken af dagene der skal registreres på i listen til venstre. Hvis der ønskes at ændre tidsregistrering for en dag hvor der ikke mangler tidsregistrering kan dagen vælges i kalederen til højre.\\
+Dialogen viser hvilke dager der mangler at blive tidsregistreret på, inden for de sidste 2 uger. Default vælges den første dag i perioden hvor der mangler tidsregistrering for en eller flere klienter på aktiviteten. Brugeren kan vælge hvilken af dagene der skal registreres på i listen til venstre. Hvis der ønskes at ændre tidsregistrering for en dag hvor der ikke mangler tidsregistrering kan dagen vælges i kalederen til højre.\\
 Dialogen tilbyder 3 registreringsfunktionaliteter:
   - Manuel registrering for en enkelt klient
   - Automatisk registrering for en enkelt klient
   - Automatisk registrering for alle klienter der ikke har tidsregistreret aktiviteten den pågældende dag.\\
-Ved begge automatiske tidsregistreringer registreres [[arbejdsgange:tidsregistrering_standart|stardart registrering]]. Bemærk: Automatisk tidsregistrering tilbydes ikke for akkordaktiviteter.
+Ved begge automatiske tidsregistreringer registreres [[arbejdsgange:tidsregistrering_standart|stardard registrering]]. Bemærk: Automatisk tidsregistrering tilbydes ikke for akkordaktiviteter.
 
 Manuel registrering aktiviveres ved at klikke på "Registrer" ud for den ønskede klient. Dette bruges også til at rette en eksisterende tidsregistrering.
 
 Automatisk registrering aktiveres ved at klikke "Indsend til godkendelse" ud for en enkelt klient, eller "indsend alle til godkendelse" knappen i bunden af dialogen.
 
-===== Manuel tidsregistrering =====
-Manuel tidsregistrering sker via tidsregistrerings detail dialogen:\\
-{{:dialogs:tidsregistrering_eksempel1.jpg?800|}}\\
-Når dialogen åbner, er den forudfyldt med "[[arbejdsgange:tidsregistrering_standart|standard registrering]]" Her registreres basisaktiviteten "gangmand", men klienten er tilmeldt en anden aktivitet (med højere prioritet) mellem kl 8 og 10. Derfor er dette tidsrum "reserveret" den anden aktivitet.\\
-==== Fravær / anden aktivitet ====
-
-Fra detailsiden kan der tilføjes fravær og anden aktivitet ved at trykke på den relevante knap. her tilføjes lovlig fravær (besøg) kl 14 - 15:30:\\
-{{:dialogs:tidsregistrering_tilfoej_fravaer.jpg?800|}}\\
-I dialogen foreslås som udgangspunkt hele den periode der kan registreres: Start og sluttidspunkt for fravær/anden aktivitet ren justeres, og til fravær kan dert gives en kommentar. Når der trykkes "Gem" vendes tilbage til detaildialogen, og perioderne er justeret.\\
-{{:dialogs:tidsregistrering_eksempel2.jpg?800|}}\\
-==== Redigering / sletning af perioder ====
-En tidsregistreringsperiode kan redigeres eller slettes: Hvis en periode slettes udfylder PUMA automatisk perioden med tidsregistrering af aktiviteten. Hvis en periode redigeres sørger PUMA automatisk for at justerer de tilstødende perioder. I eksemplet ovenfor:\\
-Hvis fraværsperioden slettes vender PUMA tilbage til gangmand 10-15:50.\\
-Hvis fraværesperioden udviddes til at starte 13:30 vil gangmandsperioden justeres til at sluttet 13:30.\\
-Hvis fraværsperioden ændres til først at starte 14:30 vil gangmandsperioden udvides til at slutte 14:30.\\
-Hvis gangmandsperioden udviddes til at slutte 14:30 vil fraværsperioden justeres til at starte 14:30.\\
-Hvis gangmandsperioden justeres til at slutte 13:30 vil det ikke have nogen effekt: PUMA vil udfylde 13:30-14 med gangmand, og slå de to sammenhængende gangmandsperioder sammen.\\
-Generelt vil PUMA prøve at have så få perioder som muligt: Hvis en aktivitet fra 8-16 er afbrudt af en fraværsperiode 10-12, og fraværsperioden slettes vil PUMA ikke lave 3 gangmandspeioder (8-10, 10-12, 12-16) men slå dem sammen til en sammenhængende periode. Det er dog muligt at have flere perioder med arkkordarbejde.
-
-==== Udviddelse af arbejdstiden ====
-Hvis klienten ikke er tilmeldt en aktivitet umiddelbart før/efter aktiviteten der tidsregistreres kan arbejdstiden udviddes. Det sker ved at redigere den første/sidste periode (eller //perioden// hvis der kun er 1) og sætte start/sluttidspunkt til det ønskede: Perioden kan ikke udviddes så den overlapper med en tidligere/senere aktivitet.\\
-Udviddelse af arbejdstiden skal ske før der kan registreres overarbejde uden for den planlagte arbejdstid.
-
-==== Overarbejdstillæg ====
-Der kan gives op til 2 perioder med overarbejdstillæg. Hvis overarbejdstillæg skal gives uden for den planlagte tid (det skal de som hovedregel), skal arbejdstiden først uviddes.\\
-Når der krydses af i en overarbejdstillægscheckboks vises en linje hvor man sætte start/sluttidspunkt for overarbejdstillæget, eller fjerne det.
-Overarbejdstillæg 1 skal altid ligge før overarbejdstillæg 2. Hvis det indtastes i omvendt rækkefølge vil PUMA bytte om på de 2 periode. To Overarbejdstillægsperioder må ikke overlappe.\\
-{{:dialogs:tidsregistrering_overarb_tillaeg.jpg?800|}}
-
-==== Stabilitets- kompetancetillæg ====
-Som udgangspunkt Udfylder PUMA om der er givet stabilitets og/eller kompetancetillæg. Hvis klienten undtagelsesvist ikke skal have tillæg kan afkrydsningen fjernes (se regler for tillæg).\\
-Hvis klienten ikke er givet stabilitetes/kompetancetillæg kan afkrydsning ikke foretages: Tillæg skal gives via [[dialoger:tillaeg|stamdatasiden]].\\
- 
-==== Akkordarbejde ====
-Hvis en aktivitet er akkordarbejde skal brugeren angive antal og stk.pris: PUMA beregner løbende totalt antal og total pris (under stk.pris)\\
-{{:dialogs:tidsregistrering_akkord.jpg?800|}}\\
-For at tage højde for forskellige situationer er der nogle specielle muligheder ved registrering af akkordarbejde:\\
-Hvis klienten har lavet flere forskellige ting med hver sin stk.pris, kan dette registreres ved at anvende knappen "Tilføj akkordperiode". Brugen vælger efter bedste skøn et tidsrum hvor klienten har lavet den pågælnde ting, og der er nu 2 perioder.\\
-Hvis der er flere perioder med akkordarbejde. F.eks fordi klienten har fravær midt i periode udfyldes de forskellige perioder efter skøn: blot det samlede antal er korrekt bilver registreringen korrekt. Hvis klienten kun har lavet 1 stk, fordelt over flere perioder, kan resterende perioder udfyldes med 0 stk, 0 kr.\\
-Hvis klienten hun har nået f.eks halvdelen af en større ting kan antal registreres som 0,5.\\
-
-
-
-
-
+{{page>[dialoger:manuel_tidsregistrering]}}
 

@@ -33,6 +33,6 @@ En ny aktivitet kan [[dialoger:opret_aktivitet_som_kopi|oprettes som kopi]] af e
 ===== Redigering =====
 [[dialoger:find_aktivitet|Fremfind aktiviteten]]\\
 I aktivitetsdetaljer dialogen klik "Rediger aktivitet"\\
-{{:dialogs:activity_detail_detail.jpg?600|}}\\
+{{:dialogs:activity_detail_detail.jpg?800|}}\\
 Aktiviteten kan nu redigeres. Se [[dialoger:opret_aktivitet|oprettelse af aktivitet]] for de forskellige felters betydning.
 

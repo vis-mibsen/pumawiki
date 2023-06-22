@@ -1,4 +1,7 @@
 ====== Klient stamdata ======
+<WRAP navbox>
+Klienter->stamdata
+</WRAP>
 {{:dialogs:client_detail1.jpg?nolink&1000|}}\\
 På øverste del af klientens stamdataside vises, til venstre, informationer om klienten (hovedsageligt fra KlientSystemet). Her vises også om klienten har opnået [[dialoger:tillaeg|stabilitets- og kompetancetillæg]]
 
@@ -31,7 +34,7 @@ Se også : [[dialoger:ventelister|ventelister]]
 ===== Behov =====
 Her vises både behov fra afsoningsplan og ad-hoc behov oprettet i PUMA. Status for behov er indikeret både med ikon og tekst.\\
 Fejloprettede ad-hoc behov kan slettes, og afsluttede behov kan vises.\\
-Se også : [[arbejdsgange:behov|behov]]
+Se også : [[dialoger:behov|behov]]
 
 ===== Tilmeldte aktiviteter =====
 Her vises en liste over klientens tilmeldte aktiviteter, samt klientens primære aktivitet. Der er genveje til klientens aktivitetskalender og aktivitetsoverblik (filtreret efter den valgte aktivitet)

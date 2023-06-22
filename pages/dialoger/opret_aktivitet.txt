@@ -39,7 +39,7 @@ Set også [[dialoger:tilmeldingstype|tilmeldingstyper]] for mere information omk
 
 ==== Instruktør ====
 Her vælges mindst en instruktør til aktiviteten/holdet.
-der kan vælges blandt de instruktøre som har stamaktiviteten som kompetance (se instruktøre). Ved afkrydsning i "alle matrikler" kan der også vælges instruktøre der ikke er fast knyttet til aktivitetens matrikel.
+der kan vælges blandt de instruktøre som har stamaktiviteten som kompetance (se [[dialoger:instruktoer|instruktøre]]). Ved afkrydsning i "alle matrikler" kan der også vælges instruktøre der ikke er fast knyttet til aktivitetens matrikel.
 
 
 ==== Aktivitetsbeskrivelse ====

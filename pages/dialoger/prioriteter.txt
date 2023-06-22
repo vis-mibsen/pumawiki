@@ -3,11 +3,29 @@
 En klient kan ikke være tilmeldt 2 aktiviteter (med samme prioritet) samtidig.\\
 Da der kan være brug for at tilmelde en aktivitet "ind over" en anden kan aktiviteter prioriteres:
 
-Basisaktiviteter har altid laveste prioritet. En klient kan ikke være tilmeldt 2 basisaktivitere samme dag.
+  - Basisaktiviteter har altid laveste prioritet. En klient kan ikke være tilmeldt 2 basisaktivitere samme dag.
+  - Almindelig tilmelding har næstlaveste prioritet: De tager præcedens over basisaktiviteter.
+  - Prioriteret tilmelding kan anvendes til aktiviteter der skal ske i stedet for (en del af) en almindelig tilmeldt aktivitet. Det vil ofte være f.eks programvirksomhed, eller en time med undervisning/vejledning.
+  - Misbrugsbehandling har altid højeste prioritet.
 
-Almindelig tilmelding har næstlaveste prioritet: De tager præcedens over basisaktiviteter.
+===== Prioriteret tilmelding =====
+Når der tilmeldes en aktivitet der overlapper med en anden aktivitet gør PUMA opmærksom på dette og tilbyder prioriteret tilmelding:\\
+{{:dialoger:tilmeld_prioriteret.jpg?600|}}\\
+Hvis brugeren forsøger at tilmelde prioriteret, samtidig med en anden prioriteret aktivitet kommer en fejlmeddelelse:\\
+{{:dialoger:tilmeld_prioriteret2.jpg?600|}}
 
-Prioriteret tilmelding kan anvendes til programvirksomhed der skal ske i stedet for (en del af) en almindelig tilmeldt aktivitet
+===== Undtagelser =====
+Basisaktivitere tilmeldes ikke prioriteret.
 
-Misbrugsbehandling har altid højeste prioritet
+Misbrugsbehandlingsaktiviteter tilmeldes altid med højeste prioritet: 2 misbrugsbehandlingsaktiviteter må ikke overlappe.
+
+Fritid & interesse tilmeldes ikke prioriteret: hvis de ligger samtidig med andre aktiviteter er klienten tilmeldt begge.
+
+===== OBS =====
+Vær forsigtig med prioriteret tilmelding. Ideelt set skal aktivitetsplanlægningen sørge for at aktiviteter ikke overlapper. Basisaktiviteter bliver dog som regel overlappet af andre aktiviteter.
+
+
+
+
+
 

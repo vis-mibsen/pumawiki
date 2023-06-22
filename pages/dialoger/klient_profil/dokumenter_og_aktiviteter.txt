@@ -2,7 +2,7 @@
 
 {{:dialogs:klient_profil:klient_profil_dokumenter_aktiviteter.jpg?800|}}
 
-Under hver profil vises dokumenter og aktiviteter på profilen.\\
+Under hver [[dialoger:klient_profil:start|profil]] vises dokumenter og aktiviteter på profilen.\\
 Brugeren kan uploade og se relevante dokumenter.\\
 Specielt for misbrugsbehandlingsprofilen kan der oprettes og ses [[dialoger:klient_profil:udskrivningsnotat|udskrivningsnotater]].
 For profilen anden godkendt aktivitet er der ingen dokumenter.

@@ -1,6 +1,6 @@
 ====== Instruktører ======
 
-Til alle aktiviteter skal der være knyttet mindst en instruktør, Instruktøre knyttes til aktivitetrer ved [[dialoger:opret_aktivitet|oprettelse]] eller [[dialoger:rediger_aktivitet|redigering]] af aktivitet.
+Til alle aktiviteter skal der være knyttet mindst en instruktør, Instruktøre knyttes til aktivitetrer ved [[dialoger:opret_aktivitet|oprettelse]] eller [[arbejdsgange:rediger_aktivitet|redigering]] af aktivitet.
 
 {{:dialoger:aktivitet_instruktoer.jpg?1000|}}\\
 
@@ -23,6 +23,8 @@ Ved at klikke på instruktørens navn kan instruktøren redigeres:
 {{:dialoger:aktivitet_instruktoer_rediger.jpg?1000|}}\\
 
 Under redigering af instruktør kan email og telefonnummer ændres, eller instruktøren kan gøres aktiv/inaktiv.
+==== Opdater instruktør fra AD ====
+
 Oplysninger om email, telefonnummer, samt tilknytning til matrikkel vedligeholdes dog af kriminalforsorgen i [[https://da.wikipedia.org/wiki/Active_Directory|Windows AD]], og oplysinger bør hentens herfra, hvilket sker via knappen "Opdater instruktør fra AD"
 
 ===== Kompetencer =====
