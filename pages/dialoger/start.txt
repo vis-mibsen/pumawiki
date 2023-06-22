@@ -21,7 +21,7 @@ Få hjælp til de forskellige [[dialoger:dialogstruktur|menuer og dialoger i sys
 [[dialoger:instruktoer|Instruktører]]
 ----
 [[dialoger:aktivitetsdetaljer|Aktivitetsdetaljer (tilmeld, afslut, kopier, slet, tidsregistrer...)]]
-
+----
 
 [[dialoger:tilmeld_aktivitet|Tilmeld]]
 ----
