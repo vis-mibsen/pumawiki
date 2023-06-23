@@ -70,5 +70,3 @@ Ventelister
 </WRAP>
 </WRAP>
 
-{{rss>http://slashdot.org/index.rss 5 author date 1h }}
-

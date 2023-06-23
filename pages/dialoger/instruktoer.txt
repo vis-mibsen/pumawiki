@@ -1,6 +1,8 @@
 ====== Instruktører ======
-
-Til alle aktiviteter skal der være knyttet mindst en instruktør, Instruktøre knyttes til aktivitetrer ved [[dialoger:opret_aktivitet|oprettelse]] eller [[arbejdsgange:rediger_aktivitet|redigering]] af aktivitet.
+<WRAP navbox>
+Aktiviteter->Instruktører
+</WRAP>
+Til alle aktiviteter skal der være knyttet mindst en instruktør, Instruktøre knyttes til aktiviteter ved [[dialoger:opret_aktivitet|oprettelse]] eller [[arbejdsgange:rediger_aktivitet|redigering]] af aktivitet.
 
 {{:dialoger:aktivitet_instruktoer.jpg?1000|}}\\
 
