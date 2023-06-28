@@ -1,0 +1,31 @@
+====== Find venteliste ======
+<WRAP navbox>
+Ventelister->Find venteliste
+</WRAP>
+{{:dialoger:venteliste_find.jpg?1000|}}
+
+Ventelister kan fremsøges på forskellige kriterer:\\
+  * Område: Kun ventelister på matrikler i det valgte område
+  * Matrikel: Kun ventelister på den valgte matrikel
+  * Beskæftigelsesområde: Kun ventelister indenfor det valgte beskæftigelsesområde
+  * Stamaktivitet (navn): Kun ventelister baseret på den/de relevante stamaktiviteter
+  * Status: : Kun ventelister med den relevante status:
+    * Alle: ingen yderligere begrænsning
+    * Ingen på ventelister: Kun ventelister hvor ingen klient pt. er opskrevet
+    * Har klienter på venteliste: Kun ventelister hvor brugeren pt. har opskrevet klient(er) ((Dette r praktisk dels for hurtigt overblik, dels hvis man mistænker at man har opskrevet en klient på en forkert venteliste))
+    * Flere på venteliste end ledige pladser: kunu ventelister hvor der er flere opskrevet end der pt. er ledige pladser på relevante aktiviteter
+  * Kun med klienter tilmeldt af bruger: samme som status: Har klienter på venteliste
+  * Kun med registreringskoder: Kun ventelister hvor der er godkendt(e) registreringskode<nowiki>(r)</nowiki>: dvs. der //er// eller //kan// oprettes aktiviteter på matriklen ud fra den relevante stamaktivitet.
+
+===== Resultater =====
+{{:dialoger:venteliste_resultat.jpg?800|}}\\
+I Listen over fremfundne ventelister vises:
+  * Matrikel
+  * Beskæftigelsesområde
+  * Stasmaktivitet
+  * Antal klienter opskrevet på ventelisten
+  * Antal ledige pladser på aktiviteter
+  * Antal akrtiviteter
+  * Åbn venteliste 
+Der kan sorteres efter enhver kolonne
+

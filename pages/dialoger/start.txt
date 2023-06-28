@@ -57,7 +57,7 @@ Deltagerliste
 ----
 Aktivitetskapactiet
 ----
-PUMA-liste
+[[dialoger:puma_listen|PUMA-liste]]
 ----
 Statistik
 ----

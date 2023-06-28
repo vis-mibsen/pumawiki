@@ -30,7 +30,7 @@ Timeregistrer aktivitet\\
 Brug manglede klarmelding\\
 Brug afdelingsliste\\
 Brug deltageliste\\
-Brug mangellisten\\
+[[dialoger:rapporter_mangelliste|Brug mangellisten]]\\
 brug PUMA-Listen\\
 Brug aktivitetskapacitet listen\\
 
@@ -39,4 +39,6 @@ Brug aktivitetskapacitet listen\\
 [[dialoger:instruktoer|Tildel kompetencer]]\\
 [[dialoger:instruktoer|Rediger instruktør / Opdater fra AD]]\\
 
+=== Ventelister ===
+[[arbejdsgange:ventelister|Ventelister]]
 

@@ -10,5 +10,3 @@ Læs de officielle regler, bekendtgørelser og vejledninger.
 
 {{ rules:straffuldbyrdelsesloven.pdf |}}\\
 [[https://www.retsinformation.dk/eli/lta/2023/201| straffuldbyrdelsesloven gældende (Link)]]\\
-{{ rules:retningslinjer_for_modtagelsesmedarbejdere.docx |}}\\
-{{ rules:bekendtgoerelse_om_programvirksomhed.docx |}}\\

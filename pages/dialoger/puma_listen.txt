@@ -1,0 +1,53 @@
+====== PUMA-listen ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA-listen
+</WRAP>
+{{:dialoger:puma_listen.jpg?1000|}}\\
+
+I PUMA-listen kan der trækkes information om klienternes profiler: de fleste felter i[[dialoger:klient_profil:start| klienternes profiler]] kan vises.
+
+===== Udpeg klienter =====
+Der skal vælges område+matrikel. Klienterne kan yderligere begrænses til en afdeling. Derudover vælges om der ønskes udtræk på aktive eller passive klienter.
+
+===== Vælg felter/kolonner =====
+Der kan vælges op til 5 felter/kolonner. Felterne er inddelt efter profil, Bemærk at hvis der vælges mere end 3 felter/kolonner kan pladsen i dialogen blive lidt "trang".
+
+===== Vælg filter =====
+Som udgangspunkt filteres efter "Klienter med værdi for mindst en kolonne":
+
+  * Klienter med værdi for mindst en kolonne: Der vises kun klienter hvor mindst et af de valgte felter er udfyldt med en positiv værdi (ikke: nej, måske, ikke angivet)
+  * Klienter med værdi for alle kolonner: samme betingelse som ovenfor, men for alle valgte felter
+  * Klienter med værdi for ingen kolonne: modsat af betingelsen ovenfor
+  * Alle klienter (original): alle udpegede klienter vises
+
+===== Undtagelse for manglende profiler =====
+Felterne "Mgl. Prog. profil", "Mgl. Udd. profil", "Mgl. Misb. profil", "Mgl. Arb profil", "Mgl. AGA profil" og "Mgl F&I profil" har "omvendt logik": dvs. de klienter hvor den tilsvarende profil mangler at blive udfyldt anses som havende en "positiv værdi"
+
+===== "ikke angivet" =====
+I nogle felter er det muligt at vælge værdier som "ved ikke", og nogle felter i den del af profilen der ikke udfyldes af modtagende medarbejder kan være:  "ikke valgt" Hvis feltet i PUMA-listen vises som "ikke angivet" betyder det at profilen ikke er udfyldt, og der derfor ikke er angivet nogen værdi (bortset fra spørgsmålet om manglende profil, hvor de to eneste muligheder er "profil" og "ingen profil"). Hvis feltet vises som "ikke valgt" betyder det at klienten har en profil, men at dette felt ikke er udfyldt.
+
+<WRAP group>
+<WRAP column 10%>
+værdi i puma-listen
+----
+ikke angivet\\
+ikke valgt\\
+ved ikke\\
+nej\\
+</WRAP>
+<WRAP column 25%>
+årsag
+----
+Klienten har ikke en profil\\
+Det er en profil, men feltet er ikke udfyldt\\
+Der er en profil, men der er ingen oplysninger\\
+profilen er her besvaret med nej
+
+
+
+</WRAP>
+</WRAP>
+
+
+
+

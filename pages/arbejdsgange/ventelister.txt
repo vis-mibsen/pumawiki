@@ -1,0 +1,25 @@
+====== Ventelister ======
+
+Ventelister bruges som planlægningsværktøj: Hvis der ikke umiddelbart er plads på et hold kan klienten opskrives på venteliste. Hvis brugere kan konstatere at klienten skal tilmeldes en (stam)aktivitet, men ikke ved hvilket hold, kan klienten opskrives på venteliste.
+
+Ventelister  er knyttet til en matrikel og en stamaktivitet. Man kan dog angive at en ventelisteopskrivning skal overføres til en ny matrikel sammen med klienten hvis denne overføres. Man kan også angive at en specifik aktivitet/hold er foretrukket, men man kan ikke  udelukke andre aktiviteter.
+
+===== Opskriv på venteliste =====
+
+==== Find venteliste ====
+Under "ventelister" kan ventelister [[dialoger:find_venteliste|fremsøges]]
+==== Opskrivning ====
+Når en klient [[dialoger:ventelisteopskrivning|opskrives på venteliste]], Bliver ventelisteopskrivningen synlig, både i klientens [[dialoger:klient_stamdata|stamdatadialog]], på klientens [[dialoger:klient_aktivitetsoverblik|aktivitetsoverblik]], og på [[dialoger:find_venteliste|ventelisten]] selv. Ventelisteopskrivningen indeholder oplysninger om:
+  * Hvornår klienten er opskrevet
+  * Om opskrivningen er sket på baggrund af et behov
+  * Om ventelisteopskrivningen er sket som følge af klientens eget ønske
+  * Om ventelisteopskrivningen skal beholdes/overføres ved overførsel til ny matrikel
+  * Om der er et foretrukket hold
+
+
+===== Tilmelding til aktivitet =====
+Både ved aktivitetstilmelding [[dialoger:tilmeld_fra_klient|fra klienten]], og [[dialoger:tilmeld_aktivitet_fra_aktivitet|fra aktivitet]] er det muligt at filtrere på ventelisteopskrivning. Fra klienten kan der altså fremsøges relevante aktiviteter, og fra aktiviteten relevante klienter.
+==== Fjern fra/behold på venteliste ====
+Som udgangspunkt fjernes klienter fra venteliste når de tilmeldes en relevant aktivitet; Der er mulighed for at beholde klienten på venteliste ved selve [[dialoger:tilmeld_aktivitet_dialog|tilmeldingen]]
+
+
