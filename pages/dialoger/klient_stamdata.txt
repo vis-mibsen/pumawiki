@@ -29,7 +29,7 @@ For afsonere med en vis straflængde udarbejdes en afsoningsplan. I PUMA vises d
 
 ===== Ventelister =====
 Hvis klienten er opskrevet på ventelister vises det her: Der er mulighed for at gå til de pågældende ventelister, eller direkte til klientens opskrivningsdetaljer.\\
-Se også : [[dialoger:ventelister|ventelister]]
+Se også : [[arbejdsgange:ventelister|Ventelister]]
 
 ===== Behov =====
 Her vises både behov fra afsoningsplan og ad-hoc behov oprettet i PUMA. Status for behov er indikeret både med ikon og tekst.\\

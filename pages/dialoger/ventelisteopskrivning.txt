@@ -1,0 +1,19 @@
+====== Venteliste opskrivning ======
+Først [[dialoger:find_venteliste|fremfindes den ønskede venteliste]]\\
+{{:dialoger:venteliste.jpg?1000|}}\\
+Under ventelisten klikkes på "Tilføj klient".\\
+{{:dialoger:find_klienter_til_venteliste.jpg?800|}}\\
+Klienter kan fremsøges på:
+  * Fornavn 
+  * Efternavn
+  * CPR
+  * Celle
+(Alle 4 felter har [[dialoger:wildcard|wildcard søgning]])\\
+Område+Matrikel skal altid angives
+
+De ønskede klienter tilføjes til ventelisten med "Tilføj" knappen (se [[dialoger:venteliste_detaljer|her]] for udfyldning af ventelistedetaljer)
+
+Klienter der er tilføjet, markeres med lyseblå baggrundsfarve i fremsøgningen:\\
+{{:dialoger:find_klienter_til_venteliste_m_markering.jpg?800|}}\\
+
+

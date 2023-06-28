@@ -12,7 +12,7 @@ Ventelister kan fremsøges på forskellige kriterer:\\
   * Status: : Kun ventelister med den relevante status:
     * Alle: ingen yderligere begrænsning
     * Ingen på ventelister: Kun ventelister hvor ingen klient pt. er opskrevet
-    * Har klienter på venteliste: Kun ventelister hvor brugeren pt. har opskrevet klient(er) ((Dette r praktisk dels for hurtigt overblik, dels hvis man mistænker at man har opskrevet en klient på en forkert venteliste))
+    * Har klienter på venteliste: Kun ventelister hvor brugeren pt. har opskrevet klient(er) ((Dette er praktisk dels for hurtigt overblik, dels hvis man mistænker at man har opskrevet en klient på en forkert venteliste))
     * Flere på venteliste end ledige pladser: kunu ventelister hvor der er flere opskrevet end der pt. er ledige pladser på relevante aktiviteter
   * Kun med klienter tilmeldt af bruger: samme som status: Har klienter på venteliste
   * Kun med registreringskoder: Kun ventelister hvor der er godkendt(e) registreringskode<nowiki>(r)</nowiki>: dvs. der //er// eller //kan// oprettes aktiviteter på matriklen ud fra den relevante stamaktivitet.
@@ -25,7 +25,7 @@ I Listen over fremfundne ventelister vises:
   * Stasmaktivitet
   * Antal klienter opskrevet på ventelisten
   * Antal ledige pladser på aktiviteter
-  * Antal akrtiviteter
-  * Åbn venteliste 
+  * Antal aktiviteter
+  * Åbn [[dialoger:venteliste|venteliste]] 
 Der kan sorteres efter enhver kolonne
 

@@ -1,0 +1,22 @@
+====== Venteliste ======
+<WRAP navbox>
+Ventelister->(Søg)->(Åbn)
+</WRAP>
+{{:dialoger:venteliste.jpg?1000|}}
+===== Kolonner =====
+
+I selve ventelisten ses:
+  * Klientnavn: navn, og link til klientens [[dialoger:klient_stamdata|stamdataside]]
+  * CPR
+  * Celle
+  * Afdeling
+  * Klientmatrikel
+  * Opskrivningsdato
+  * Tilmelder
+  * Foretrukket aktivitet/hold
+  * Ventelistestatus: på venteliste, eller tilmeldt aktivitet (inden klienten //starter// på aktiviteten)
+  * Vis detaljer
+
+===== Tilføj til venteliste / vis historik =====
+
+Under ventelisten er der knapper til at tilføje klienter til ventelisten, eller vise historik for ventelisten.

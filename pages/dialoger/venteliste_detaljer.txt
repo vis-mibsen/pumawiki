@@ -1,0 +1,28 @@
+====== Venteliste detaljer ======
+===== Opskrivning =====
+
+Denne dialog udfyldes ved opskrivning til venteliste.\\
+{{:dialoger:venteliste_detaljer.jpg?800|}}\\
+I venstre side er oplysninger om klienten:
+  * Navn
+  * Celle
+  * Matrikel
+  * Afdeling
+  * 2/3 Tid
+  * Fuld tid
+  * Sikkerhedsinformationer
+I højre side udfyldes:
+  * Behov (hvis ventelisteopskrivningen sker på baggrund af et behov, vælges det her)
+  * Eget ønske (hvis ventelisteopskrivningen sker på baggrund af klientens egent ønske markeres det her)
+  * Foretrukket hold: Hvis et bestemt hold foretrækkes, vælges det her
+
+Nederst vises klientens tilmeldte aktiviteter.
+
+===== Redigering / fjern =====
+Når dialogen senere åbnes ((fra klientens [[dialoger:klient_stamdata|stamdatadialog]], eller fra [[dialoger:venteliste|ventelisten]])) giver den mulighed for at redigere eller fjerne ventelisteopskrivningen:\\
+{{:dialoger:venteliste_detaljer_fjern.jpg?800|}}\\
+Knappen "Fjern" giver mulighed for at [[dialoger:venteliste_fjern|fjerne klienten fra ventelisten]].
+
+Hvis en værdi ændres af brugeren fremkommer knappen "Opdater" der giver mulighed for at gemme opdateringer til ventelisteopskrivningen
+
+
