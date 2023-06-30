@@ -22,9 +22,11 @@ Både ved aktivitetstilmelding [[dialoger:tilmeld_fra_klient|fra klienten]], og 
 ==== Fjern fra/behold på venteliste ====
 Som udgangspunkt fjernes klienter fra venteliste når de tilmeldes en relevant aktivitet; Der er mulighed for at beholde klienten på venteliste ved selve [[dialoger:tilmeld_aktivitet_dialog|tilmeldingen]]
 
+Hvis en klient ønskes [[dialoger:venteliste_fjern|fjernet fra en venteliste]], kan det gøres fra [[dialoger:venteliste_detaljer|ventelistedetalje dialogen]]
+
 ===== Genveje til ventelistedialoger =====
   * [[dialoger:find_venteliste|Find venteliste]]
   * [[dialoger:venteliste|Venteliste]]
-  * venteliste detaljer
+  * [[dialoger:venteliste_detaljer|Venteliste detaljer / opskriv på venteliste]]
 
 

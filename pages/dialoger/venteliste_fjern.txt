@@ -1,0 +1,12 @@
+====== Fjern klient fra venteliste ======
+Fra [[dialoger:venteliste_detaljer|ventelistedetaljer]] klikkes "Fjern"
+
+{{:dialoger:venteliste_fjern1.jpg?800|}}\\
+ hvorefter brugeren kan vælge mellem 
+  * Ikke egnet
+  * Tilføjet ved en fejl
+  * Ikke længere relevant
+  * 
+{{:dialoger:venteliste_fjern2.jpg?800|}}
+
+

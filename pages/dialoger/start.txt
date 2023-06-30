@@ -65,7 +65,7 @@ Statistik
 </WRAP>
 <WRAP 45% column>
 ===== Ventelister =====
-Ventelister
+[[dialoger:find_venteliste|Ventelister]]
 ----
 </WRAP>
 </WRAP>

@@ -1,4 +1,8 @@
 ====== Venteliste detaljer ======
+<WRAP navbox>
+Ventelister->Find venteliste->(Åbn)->(Detaljer)\\
+Klienter->Stamdata->{Ventelister}->(Vis info)
+</WRAP>
 ===== Opskrivning =====
 
 Denne dialog udfyldes ved opskrivning til venteliste.\\
