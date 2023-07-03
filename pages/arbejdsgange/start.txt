@@ -21,10 +21,10 @@ Aflys aktivitet\\
 Rediger samarbejdspartnere\\
 
 === Klienter ===
-Udfyld profiler\\
-Tilmeld til aktivitet\\
-Frameld aktivitet\\
-Timeregistrer aktivitet\\
+[[dialoger:klient_profil:start|Udfyld profiler]]\\
+[[dialoger:tilmeld_fra_klient|Tilmeld til aktivitet]]\\
+[[arbejdsgange:frameld_aktivitet|Frameld aktivitet]]\\
+[[arbejdsgange:tidsregistrering_klient|Timeregistrer aktivitet]]\\
 
 === Rapporter ===
 Brug manglede klarmelding\\
