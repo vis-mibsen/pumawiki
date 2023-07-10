@@ -1,7 +1,7 @@
 ====== PUMA's dialogstruktur ======
 
 Øverst i PUMA findes en menulinje med "Klienter, Aktiviteter, Rapporter og Ventelister"\\
-{{:dialogs:puma_dialog_example.jpg?nolink&800|}}\\
+{{:dialogs:puma_dialog_example.jpg?nolink&1000|}}\\
 Under hver menupunkt findes der en dialog der kan indeholde yderligere menulinjer.\\
 I eksemplet er vist at der er valgt "Klienter" og herunder "Aktiviteter" og til sidst "Aktivitetoverblik"\\
 I vidensbasen vises dette som:\\

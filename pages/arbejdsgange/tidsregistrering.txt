@@ -5,7 +5,7 @@ Der er mulighed for at tidsregistrere deltagelse op til ++2 forgående uger og 4
 Tidsregistrering kan ske fra 2 steder i PUMA:
   - [[arbejdsgange:tidsregistrering_aktivitet|Fra aktiviteten]]
   - [[arbejdsgange:tidsregistrering_klient|Fra klienten]]
-Tidsregistrering fra aktiviteten er praktisk, da der kan tidsregistreres for et helt hold ad gangen. Ved tidsregistrering fra aktiviteten har brugeren mulighed for at lave individuel registrereing for de klienter der har haft frvær/anden aktivitet, og derefter lave en "standard registrering" for resten.
+Tidsregistrering fra aktiviteten er praktisk, da der kan tidsregistreres for et helt hold ad gangen. Ved tidsregistrering fra aktiviteten har brugeren mulighed for at lave individuel registrereing for de klienter der har haft frvær/anden aktivitet, og derefter lave en "[[arbejdsgange:tidsregistrering_standard|standard registrering]]" for resten.
 
 Tidsregistrering fra klienten giver mulighed for at tidsregistrere samtidig med at man har overblik over klientens aktiviteter.
 

@@ -10,7 +10,8 @@
 News:
 
 seneste version af puma er 5.7.0\\
-der er tilføjet statistik
+der er tilføjet statistik\\
+5.8.0 kommer snart
 </WRAP>
 </WRAP>
 \_

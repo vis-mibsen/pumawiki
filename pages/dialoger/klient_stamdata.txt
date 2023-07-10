@@ -10,9 +10,9 @@ Til højre vises klientens ventelisteopskrivninger, og hvis klienten har en afso
 Nedenunder vises klientens [[dialoger:behov|behov]], tilmeldte aktiviteter og informationer om "samarbejdspartnere i frihed" (der vises samarbejdspartnere i frihed for de uafsluttede aktiviteter klienten er tilmeldt)
 {{:dialogs:client_detail2.jpg?nolink&1000|}}\\
 ===== Afsoningsdata =====
-  * Matrikel: klientens nuværende matrikel ((For stamdata for tidligere indsætteælser vises daværende matrikel))
-  * Afdeling: klientens nuværende afdeling ((For stamdata for tidligere indsætteælser vises daværende afdeling))
-  * Celle: klientens nuværende celle ((For stamdata for tidligere indsætteælser vises daværende celle))
+  * Matrikel: klientens nuværende matrikel ((For stamdata for tidligere indsætteælser (passiv klient) vises daværende matrikel))
+  * Afdeling: klientens nuværende afdeling ((For stamdata for tidligere indsætteælser (passiv klient) vises daværende afdeling))
+  * Celle: klientens nuværende celle ((For stamdata for tidligere indsætteælser (passiv klient) vises daværende celle))
   * Status: om klienten er anholdt, varetægtsfængslet, afsoner...
   * Hovedkriminalitet: typen af kriminalitet (for afsonere)
   * Statsborgerskab
