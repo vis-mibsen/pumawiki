@@ -3,11 +3,29 @@
 {{:dialogs:klient_profil:klient_profil_fritid.jpg?800|}}
 
 Over selve profilen vises behov der er relevante for profilen, samt LS/RNR score (pt. ikke implementeret).\\
-Selve profilen består af afsnittet "Grundlæggende informationer"\\
+Selve profilen består af afsnittet "Grundlæggende informationer":\\
 
-Profilen udfyldes med gennerelle informationer om klientens fritidsinteresser, samt eventuelle konkrete fritidsinterresser klienten har
+  * Fritidsaktiviteter inden indsættelse
+  * Ønske om deltagelse i fritidsaktiviteter under indsættelse
+  * Løsladelsessituation
+  * Fritidsinteresser
 
+
+===== Fritidsinterresser =====
+
+I højre side af dialogen er der mulighed for at tilføje information om klientens fritidsinteresser.
+"Tilføj" knappen åbner en dialog til indtastning af en fritidsinteresse\\
+{{:dialoger:klient_profil:klient_profil_fritid_tilfoej.jpg?300|}}\\
+Fritidsinteressen fremfindes ved at skrive i feltet "Fremsøg fritidsinteresse": Ved f.eks at indtaste "fod" fremsøges mulighederne "Borfodboldt", "Fodboldt" og "Fodtennis". Der kan også angives varighed, hyppighed og niveau for fritidsinteressen.
+
+Ud for hver tilføjet fritidsinteresse er der mulighed for at redigere eller slette klientens fritidsinteresse.\\
+{{:dialoger:klient_profil:klient_profil_fritid_rediger.jpg?800|}}
+
+===== Øvrige oplysninger =====
 
 Der er mulighed for at tilføje noter i Øvrige oplysninger.\\
+
+===== Aktiviteter =====
+
 
 Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter|dokumenter og aktiviteter]] for profilen

@@ -4,6 +4,11 @@
 
 I Profilen registreres klientens børn under 18 år.
 
+I drop-down angives antal af børn (under 18 år, som den indsatte er forælder til). Herefter åbnes et tilsvarende antal felter, hvor børnenes fødeår angives:\\
+
+{{:dialoger:klient_profil:klient_profil_aga_boern.jpg?800|}}\\
+
+
 Der er mulighed for at tilføje noter i Øvrige oplysninger.\\
 
-Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter|aktiviteter]] for profilen
+Under selve profilen vises [[dialoger:klient_profil:dokumenter_og_aktiviteter| klientens aktiviteter]] for profilen
