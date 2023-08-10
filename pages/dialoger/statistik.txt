@@ -1,0 +1,14 @@
+====== Statistik ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA Statistik
+</WRAP>
+
+
+===== Underpunkter =====
+Statistikken er opdelt i følgende emner:
+  * [[dialoger:statistik:ad_hoc|Ad Hoc]]
+  * [[dialoger:statistik:misbrug|Misbrug]]
+  * [[dialoger:statistik:behov|Behov]]
+  * [[dialoger:statistik:uddannelse|Uddannelse]]
+  * [[dialoger:statistik:profiler|Profiler]]
+  * [[dialoger:statistik:ventelister|Ventelister]]

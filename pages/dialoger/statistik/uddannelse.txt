@@ -1,0 +1,4 @@
+====== Statistik: Uddannelse ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA Statistik->Uddannelse
+</WRAP>

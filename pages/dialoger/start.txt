@@ -59,7 +59,7 @@ Aktivitetskapactiet
 ----
 [[dialoger:puma_listen|PUMA-liste]]
 ----
-Statistik
+[[dialoger:Statistik|Statistik]]
 ----
 
 </WRAP>

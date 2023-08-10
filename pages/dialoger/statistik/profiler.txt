@@ -1,0 +1,4 @@
+====== Statistik: Profiler ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA Statistik->Profiler
+</WRAP>

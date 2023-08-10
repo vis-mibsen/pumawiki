@@ -1,0 +1,4 @@
+====== Statistik: Ventelister ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA Statistik->Ventelister
+</WRAP>

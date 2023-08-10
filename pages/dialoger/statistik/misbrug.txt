@@ -1,0 +1,4 @@
+====== Statistik: Misbrug ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA Statistik->Misbrug
+</WRAP>

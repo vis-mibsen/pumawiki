@@ -1,0 +1,10 @@
+====== Statistik: Ad Hoc ======
+<WRAP navbox>
+Rapporter->Listevisninhg->PUMA Statistik->Ad Hoc
+</WRAP>
+
+===== Introduktion =====
+Ad Hoc statistikken fungere anderledes end det øvrige statistik, på den måde at der er tale on specifikke udtræk.
+Det er derfor ikke muligt at begrænse statistikken på matrikel eller tid, som det ellers er tilfældet med de andre typer af statistik.
+
+Formålet med Ad Hoc statistikken er at gøre det muligt, at tilføje flere udtræk uden det kræver en ny release af Puma.
