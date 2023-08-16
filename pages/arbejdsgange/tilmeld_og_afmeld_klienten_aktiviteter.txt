@@ -1,0 +1,8 @@
+====== Tilmeld og afmeld klienten aktiviteter ======
+
+
+
+[[dialoger:find_aktivitet|Find aktivitet]]\\
+[[dialoger:opret_aktivitet|Opret aktivitet]]\\
+[[dialoger:tilmeld_aktivitet|Tilmeld til aktivitet]]\\
+[[arbejdsgange:frameld_aktivitet|Frameld aktivitet]]\\

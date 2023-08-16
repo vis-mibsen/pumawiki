@@ -47,15 +47,15 @@ Få hjælp til de forskellige [[dialoger:dialogstruktur|menuer og dialoger i sys
 <WRAP 45% column>
 ===== Rapporter =====
 
-Manglende klarmelding
+[[dialoger:manglende_klarmelding|Manglende klarmelding]]
 ----
-Afdelingsliste
+[[dialoger:afdelingsliste|Afdelingsliste]]
 ----
-Deltagerliste
+[[dialoger:deltagerliste|Deltagerliste]]
 ----
 [[dialoger:rapporter_mangelliste|Mangelliste]]
 ----
-Aktivitetskapactiet
+[[dialoger:aktivitetskapacitet|Aktivitetskapactiet]]
 ----
 [[dialoger:puma_listen|PUMA-liste]]
 ----

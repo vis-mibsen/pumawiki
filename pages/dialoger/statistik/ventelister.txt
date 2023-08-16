@@ -2,3 +2,31 @@
 <WRAP navbox>
 Rapporter->Listevisninhg->PUMA Statistik->Ventelister
 </WRAP>
+
+===== Introduktion =====
+
+Statistik over venteliste opskrivninger og ventetider for klienterne på de forskellige matrikler.
+===== Venteliste oversigt =====
+
+Dette udtræk beskriver en oversigt over venteliste opskrivninger, følgende er beskrevet data:
+
+  * 'Område', klienternes region for indsættelse
+  * 'Matrikel', klienternes matrikel
+  * 'Afdeling', afdeling for klienterne
+  * 'beskæftigelsesområde', beskæftigelsesområde for afventende aktivitet
+  * 'Venteliste', navn for basisaktivitet
+  * 'Status', status på opskrivning
+  * 'antal_klienter' opsummerende antal klienter for hvert linje
+===== Venteliste oversigt liggetider =====
+
+Dette udtræk beskriver liggetider for klienter på ventelister, følgende er en beskrivelse af data:
+
+  * 'Område' region for klienterne
+  * 'Matrikel' matrikel for klienterne
+  * 'Afdeling' afdeling for klienterne
+  * 'beskæftigelsesområde' beskæftigelsesområde for aktiviteten der afventes
+  * 'Venteliste', navn på basisaktivitet for venteliste aktivitet
+  * 'Status', status for klienterne
+  * 'antal_uger' antal uger klienterne har ventet
+  * 'antal_klienter' opsummerende antal klienter for hvert tilfælde
+
