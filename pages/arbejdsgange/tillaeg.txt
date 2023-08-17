@@ -1,2 +1,5 @@
+====== Tillæg ======
+
+For tillæg er der blandt andet stabilitetstillæg, nedenfor er en guide i forhold til dette.
 
 [[arbejdsgange:stabilitetstillæg|Hvornår skal den indsatte have stabilitetstillæg]]\\
