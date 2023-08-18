@@ -8,37 +8,48 @@ Se funktioner i PUMA ud fra forskellige arbejdsgange.
 </WRAP>
 </WRAP>
 
-=== Aktiviteter ===
-[[dialoger:find_aktivitet|Find aktivitet]]\\
-[[dialoger:opret_aktivitet|Opret aktivitet]]\\
-[[dialoger:tilmeld_aktivitet|Tilmeld til aktivitet]]\\
-[[arbejdsgange:frameld_aktivitet|Frameld aktivitet]]\\
-[[arbejdsgange:tidsregistrering|Tidsregistrer aktivitet]]\\
-[[dialoger:aktivitet_evaluering|Evaluer tilmelding]]\\
+<WRAP group>
+<WRAP 45% column>
+
+==== Aktiviteter ====
+[[arbejdsgange:tilmeld_og_afmeld_klienten_aktiviteter|Tilmeld og afmeld klienten aktiviteter]]\\
+[[arbejdsgange:evaluering_af_aktivitet|Evaluering af aktivitet]]\\
+[[arbejdsgange:opret_hold/aktivitet|Opret hold/aktivitet]]\\
 [[arbejdsgange:rediger_aktivitet|Rediger aktivitet]]\\
 Slet aktivitet\\
 Aflys aktivitet\\
 Rediger samarbejdspartnere\\
 
-=== Klienter ===
+==== Klienter ====
+[[arbejdsgange:opret_nyt_behov_i_PUMA-profil|Opret nyt behov i PUMA-profil]]\\
+[[arbejdsgange:slet_fejloprettet_behov|Slet fejloprettet behov]]\\
+[[arbejdsgange:opret_dokument_i_PUMA_profil|Opret dokument i PUMA-profil]]\\
+[[arbejdsgange:frameld_aktivitet|Frameld aktivitet]]\\
+[[arbejdsgange:manuel_klarmelding|Manuel klarmelding]]\\
+[[arbejdsgange:overførsel_til_anden_institution|Overførsel til anden institution]]\\
+
 [[dialoger:klient_profil:start|Udfyld profiler]]\\
 [[dialoger:tilmeld_fra_klient|Tilmeld til aktivitet]]\\
-[[arbejdsgange:frameld_aktivitet|Frameld aktivitet]]\\
-[[arbejdsgange:tidsregistrering_klient|Timeregistrer aktivitet]]\\
+</WRAP>
+<WRAP 45% column>
+==== Tidsregistrering ====
+[[arbejdsgange:tillæg|Tillæg]]\\
+[[arbejdsgange:tidsregistrering|Tidsregistrering]]\\
 
-=== Rapporter ===
+==== Rapporter ====
 Brug manglede klarmelding\\
 Brug afdelingsliste\\
 Brug deltageliste\\
-[[dialoger:rapporter_mangelliste|Brug mangellisten]]\\
+Brug mangellisten\\
 brug PUMA-Listen\\
 Brug aktivitetskapacitet listen\\
+</WRAP>
+<WRAP 45% column>
+==== Instruktøre ====
+[[arbejdsgange:opret_instruktør|Opret instruktør]]\\
 
-=== Instruktøre ===
-[[dialoger:instruktoer|Opret instruktør]]\\
-[[dialoger:instruktoer|Tildel kompetencer]]\\
-[[dialoger:instruktoer|Rediger instruktør / Opdater fra AD]]\\
 
-=== Ventelister ===
+==== Ventelister ====
 [[arbejdsgange:ventelister|Ventelister]]
-
+</WRAP>
+</WRAP>

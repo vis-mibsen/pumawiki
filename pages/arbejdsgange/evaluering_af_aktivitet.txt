@@ -1,0 +1,7 @@
+====== Evaluering af aktivitet ======
+
+Efter en aktivitet er gennemført skal en evaluering udføres, nedenfor er forklaring for evaluerings dialogen.
+
+{{section>[dialoger:aktivitet_evaluering]}}
+
+

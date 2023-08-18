@@ -2,3 +2,28 @@
 <WRAP navbox>
 Rapporter->Listevisninhg->PUMA Statistik->Misbrug
 </WRAP>
+
+===== Introduktion =====
+Statistik baseret på misbrugsprofilen for klienterne.
+
+===== Misbrugsforløb efter Afslutningsårsag =====
+
+Dette udtræk er baseret på afslutningsårsagen for misbrugsforløb og indeholder følgende information
+  * 'matrikel', opdeling på matrikel
+  * 'afdeling', opdeling på afdeling
+  * 'type', type for klient, eksempelvis arrestant eller pensionist.
+  * 'år', periode for indsættelsen
+  * 'antal', antal klienter i kombination af de andre punkter
+  * 'antal_startet', hvor mange klienter er startet, af forrige antal klienter
+  * 'antal_afsluttet', hvor mange klienter har afsluttet et forløb, af forrige antal klienter
+  * 'afslutningsårsag', opdeling på afslutningsårsag i kombination med øvrig data.
+===== Misbrugsforløb efter status =====
+
+Dette udtræk er baseret på misbrugsforløb og er opdelt på status.
+Følgende er en beskrivelse af data fra udtrækket.
+
+    * 'matrikel', Klienternes matrikel
+    * 'år', periode for oprettelse af forløb
+    * 'antal', antal klienter der har øvrig datapunkter til fælles
+    * 'antal startede', klienter der har påbegyndt et forløb, med udgangspunkt i 'antal'
+    * 'antal afsluttede', klienter der har afsluttet et forløb, med udgangspunkt i 'antal'

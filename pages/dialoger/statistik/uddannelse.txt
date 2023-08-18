@@ -2,3 +2,56 @@
 <WRAP navbox>
 Rapporter->Listevisninhg->PUMA Statistik->Uddannelse
 </WRAP>
+
+===== Introduktion =====
+
+Statistik baseret på misbrugsprofilen for klienterne.
+===== Uddannelsesaktiviteter pr. afdeling =====
+
+Dette udtræk er baseret på uddannelsesaktiviteter for hver afdeling og dækker over følgende data:
+
+  * 'Matrikel' Matrikel for klienterne
+  * 'Periode Start' start perioden for klienterne pr. linje
+  * 'Periode Afsluttet' afsluttende periode for klienterne pr. linje
+  * 'Beskæftigelsesområde' hvilket beskæftigelsesområde der er tale om
+  * 'Uddannelsestype' hvilken type af uddannelse der er tale om
+  * 'Registrering' typen af registrering
+  * 'Timer' antal timer registreret
+===== Uddannelsesaktiviteter pr. matrikel =====
+
+Dette udtræk er baseret på uddannelsesaktiviteter for hver matrikel og dækker over følgende data:
+
+  * 'matrikel', matrikel for klienterne
+  * 'Periode Start', startperiode for klienterne
+  * 'Periode Afsluttet', afsluttende periode for klienterne
+  * 'beskæftigelsesområde', beskæftigelsesområde for klienterne
+  * 'uddannelsestype', hvilken type af uddannelse der er tale om
+  * 'registrering', registreringstypen for omhandlende klienter
+  * 'timer', antal af timer registreret
+===== Uddannelsesaktiviteter pr. afdeling / tidstype =====
+
+Dette udtræk er baseret på uddannelsesaktiviteter for hver afdeling med tidstype og dækker over følgende data:
+
+  * 'matrikel', matrikel for klienterne
+  * 'Periode Start', startperioden for klienterne
+  * 'Periode Afsluttet', afsluttende periode for klienterne
+  * 'beskæftigelsesområde', beskæftigelsesområde ofr klienterne
+  * 'uddannelsestype', uddannelsestype for klienter
+  * 'registrering', registreringstype for hvert tilfælde
+  * 'tidstype', Køls tidstype
+  * 'tidsundertype', køls undertidstype / undertidsart
+  * 'timer', antal timer registreret
+===== Uddannelsesaktiviteter pr. matrikel / tidstype / stamaktivitet =====
+
+Dette udtræk er baseret på uddannelsesaktiviteter for hver afdeling med tidstype og stamaktivitet, og dækker over følgende data:
+
+  * 'matrikel', Klienternes matrikel
+  * 'Periode Start', startperioden for klienternes uddannelses aktivitet
+  * 'Periode Afsluttet', afsluttende periode for klienternes uddannelses aktivitet
+  * 'beskæftigelsesområde', beskæftigelsesområde for klienterne
+  * 'uddannelsestype', uddannelsestypen for klienternes aktiviteter
+  * 'basisaktivitet', basisaktiviteter som uddannelsesaktiviteten er baseret på
+  * 'registrering', registreringstype for klienterne
+  * 'tidstype', køls tidstype
+  * 'tidsundertype', køls undertidstype / undertidsart
+  * 'timer', antal timer registreret for klienterne.

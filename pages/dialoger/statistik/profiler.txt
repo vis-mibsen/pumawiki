@@ -2,3 +2,34 @@
 <WRAP navbox>
 Rapporter->Listevisninhg->PUMA Statistik->Profiler
 </WRAP>
+
+===== Introduktion =====
+
+Statistik baseret på misbrugsprofilen for klienterne.
+===== Uddannelses Niveau =====
+
+Dette udtræk indeholder data over uddannelses niveauet for klienterne.
+Nedenfor er data beskrevet:
+
+  * 'Område', region for klienterne
+  * 'Matrikel', matrikel for klienterne
+  * 'Afdeling', afdeling for klienterne
+  * 'Uddannelsesniveau', klienternes de forskellige områder inden for uddannelse i fængslerne
+  * 'Antal', antal under hvert kategori
+===== Profil udfyldelse =====
+
+Dette udtræk beskriver profil udfyldelsesgraden hos klienterne, følgende er beskrevet datafelter.
+
+  * 'Område' Klienternes region
+  * 'Matrikel' klienternes matrikel
+  * 'Udfyldt Programvirksomhedsprofil', antal med udfyldt profil
+  * 'Mangler Programvirksomhedsprofil', antal med manglende profil
+  * 'Udfyldt Uddannelsesprofil', antal med udfyldt profil
+  * 'Mangler Uddannelsesprofil', antal med manglende profil
+  * 'Udfyldt Misbrugsprofil', antal med udfyldt profil
+  * 'Mangler Misbrugsprofil', antal med manglende profil
+  * 'Udfyldt Arbejdsprofil', antal med udfyldt profil
+  * 'Mangler Arbejdesprofil', antal med manglende profil
+===== Præferencestof =====
+
+WIP
