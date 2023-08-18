@@ -2,7 +2,7 @@
 <WRAP navbox>
 Klienter->Puma-profil->Misbrugsbehandling
 </WRAP>
-{{:dialogs:klient_profil:klient_profil_misbrugsbehandling.jpg?800|}}
+{{:dialogs:klient_profil:klient_profil_misbrugsbehandling.jpg?1000|}}
 
 Over selve profilen vises behov der er relevante for profilen, samt LS/RNR score (pt. ikke implementeret).\\
 Selve misbrugsbehandlingsprofilen består af afsnittet "Grundlæggende informationer"\\

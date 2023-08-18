@@ -3,8 +3,14 @@
 Rapporter->Listevisninhg->PUMA Statistik->Ad Hoc
 </WRAP>
 
-===== Introduktion =====
-Ad Hoc statistikken fungere anderledes end det øvrige statistik, på den måde at der er tale on specifikke udtræk.
-Det er derfor ikke muligt at begrænse statistikken på matrikel eller tid, som det ellers er tilfældet med de andre typer af statistik.
 
-Formålet med Ad Hoc statistikken er at gøre det muligt, at tilføje flere udtræk uden det kræver en ny release af Puma.
+===== Adhoc lister=====
+Under adhoc statistik kan der ikke udpeges filter/kritere i form af område/matrikel, eller periode. Hvert adhoc udtræk er fuldt ud (forud)defineret.
+
+Adhoc udtræk er lavet for at gøre det muligt løbende at tilføje specifikke udtræk, uden at deploye PUMA: dialogen henter de mulige udtræk direkte fra en tabel hvor navn og definitionen af udtrækket ligger: Et nyt udtræk kan tilføjes ved at tilføje det til databasen.
+
+Pt inderholder adhoc:
+  * Misbrugsforløb
+  * Prtofiludfyldning
+  * Uddannelsesniveau
+  * Ventelisteoversigt (åtd)
