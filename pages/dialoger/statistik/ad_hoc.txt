@@ -1,8 +1,9 @@
 ====== Statistik: Ad Hoc ======
 <WRAP navbox>
-Rapporter->Listevisninhg->PUMA Statistik->Ad Hoc
+Rapporter->Listevisning->PUMA Statistik->Ad Hoc
 </WRAP>
 
+{{:dialoger:statistik:statistik_adhoc.jpg?1000|}}
 
 ===== Adhoc lister=====
 Under adhoc statistik kan der ikke udpeges filter/kritere i form af område/matrikel, eller periode. Hvert adhoc udtræk er fuldt ud (forud)defineret.
@@ -11,6 +12,6 @@ Adhoc udtræk er lavet for at gøre det muligt løbende at tilføje specifikke u
 
 Pt inderholder adhoc:
   * Misbrugsforløb
-  * Prtofiludfyldning
+  * Profiludfyldning
   * Uddannelsesniveau
   * Ventelisteoversigt (åtd)
