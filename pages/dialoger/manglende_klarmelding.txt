@@ -1,0 +1,10 @@
+====== Manglende Klarmelding ======
+<WRAP navbox>
+Rapporter->Listevisninhg->Manglende klarmelding
+</WRAP>
+
+{{:dialoger:manglendeklarmeldingoverblik.png?1200|}}
+
+Dette udtræk er ment som et overblik for brugeren, der skal være med til at afhjælpe klarmelding af klienterne.\\
+Hver mandag morgen bliver et udskrift sendt til KØLS, over de timer klienterne har brugt på forskellige aktiviteter den foregående uge.\\
+De klienter der mangler at blive klarmeldt for overførsel til køls, vil fremgå af dette overblik.
