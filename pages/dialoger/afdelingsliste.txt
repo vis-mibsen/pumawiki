@@ -1,0 +1,8 @@
+====== Afdelingsliste ======
+
+{{:dialoger:afdelingsliste.png?1200|}}
+
+Afdelingslisten er med til at give et overblik over klienter på en specifik matrikel / afdeling.\\
+Her er det muligt at opdele på beskæftigelsesområde og en bestemt dato.\_
+
+Det er muligt at vise CPR nummer, såvel som skjule instruktør og tidspunkt, af hensyn til anonymisering ved udprint af overblikket.

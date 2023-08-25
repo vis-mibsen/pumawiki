@@ -1,0 +1,22 @@
+====== Deltagerliste ======
+
+{{:dialoger:deltagerliste.png?1200|}}
+
+Deltagerlisten er med til at danne et overblik over de klienter der deltager i en specifik aktivitet eller et specifikt beskæftigelsesområde.\\
+Søgekriterier der skal udfyldes:
+
+  * Område
+  * Matrikel
+  * Aktivitet / Beskæftigelsesområde
+  * Periode
+  * Aktive/passive
+
+Udover disse punkter er det muligt at skjule/vise følgende
+
+  * inkludér afsluttede tilmeldinger
+  * cpr-numre
+  * tidspunkt
+  * instruktør
+  * niveau
+  * afslutningsårsag
+

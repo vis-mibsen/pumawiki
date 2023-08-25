@@ -1,0 +1,5 @@
+====== Overførsel til anden institution ======
+
+Idet en klient forflyttes til en anden matrikel, er der foregående processer der skal være på plads inden.\\
+Det er antaget at der skal være grundlag og en aftale på plads forinden flytningen i systemerne.\\
+Herefter foretages flytningen i Klient systemet, og ved næste indlæsningen af klienten i Puma, bør ændringerne være slået igennem.\\

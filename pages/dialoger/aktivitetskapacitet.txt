@@ -1,0 +1,5 @@
+====== Aktivitetskapacitet ======
+
+{{:dialoger:aktivitetskapacitet.png?1200|}}
+
+Aktivitetskapacitets udtrækket er med for at danne et overblik over tilmeldte klienter, ledige pladser og klienter på venteliste, for de aktiviteter der er aktive i en periode på en bestemt matrikel.
