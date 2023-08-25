@@ -1,10 +1,13 @@
 ====== Anden godkendt aktivitet profil ======
+<WRAP navbox>
+Klienter->Puma-profil->Anden godkendt aktivitet
+</WRAP>
 
 {{:dialogs:klient_profil:klient_profil_aga.jpg?800|}}
 
 I Profilen registreres klientens børn under 18 år.
 
-I drop-down angives antal af børn (under 18 år, som den indsatte er forælder til). Herefter åbnes et tilsvarende antal felter, hvor børnenes fødeår angives:\\
+I drop-down angives antal af børn (under 18 år, som den indsatte er forælder til). Herefter åbnes et tilsvarende antal felter, hvor børnenes fødselsår angives:\\
 
 {{:dialoger:klient_profil:klient_profil_aga_boern.jpg?800|}}\\
 

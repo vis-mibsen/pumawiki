@@ -3,7 +3,7 @@
 Aktiviteter -> Find aktivitet -> (aktivitetstitel)
 </WRAP>
 Under [[dialoger:aktivitetsdetaljer|aktivitetsdetaljer]] kan man afslutte en aktivitet: Hvis der ikke er tidsregistreret på aktiviteten har man mulighed for at slette den i stedet for.
-{{:dialoger:aktivitet_afslut.jpg?600|}}\\
+{{:dialoger:aktivitet_afslut.jpg?800|}}\\
 Ved afslutning af aktivitet anvives afslutningsdato: Dette er sidste dag aktiviteten afholdes.
 
 Man kan vælge at angive samme afslutninsårsag for alle klienter ("Angiv standardstatus") eller at angive individuelle afslutningsårsager for hver klient

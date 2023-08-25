@@ -1,0 +1,19 @@
+====== Manuel klarmelding ======
+
+Den automatiske klarmelding klarmender klienter der, natten mellem søndag og mandag, har tidsregistreret 37 timer, og ikke mangler at tidsregistrere aktiviteter i den netop afsluttede uge.
+
+For klienter der ikke overholder dette skal der mandag morgen ske kontrol/tidsregistrering og manuel klarmelding.
+
+Hvis klienten mangler at få tidsregistreret aktiviteter skal dette ske først.
+
+Hvis klienten f.eks har fået tidsregistreret mere end 37 timer kontrolleres at tidsregistreringen er i overensstemmelse med de tilmeldte aktiviteter (og evt overarbejde).
+
+Den manuelle klarmelding sker fra [[arbejdsgange:tidsregistrering_klient|klientens tidsregistrering]]:
+
+{{:dialogs:tidsregistrering_klient.jpg?1000|}}
+
+Tryk på knappen "Klarmeld timer".
+
+Bemærk at knappen "Klarmeld timer" ikke virker hvis der //er// klarmeldt og ikke siden er ændret i tidsregistrering. (Der findes dog en ++workarround| En eksisterende tidsregistrering kan åbnes fra kalenderen og indsendes igen (uden ændringer) dermed får den et nyt tidsstempel++)
+
+Der genereres tilsregistreringsfil der overføres til FTP server og herfra til KØLS.

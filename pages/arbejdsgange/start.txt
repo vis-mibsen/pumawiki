@@ -35,6 +35,7 @@ Rediger samarbejdspartnere\\
 ==== Tidsregistrering ====
 [[arbejdsgange:tillæg|Tillæg]]\\
 [[arbejdsgange:tidsregistrering|Tidsregistrering]]\\
+[[arbejdsgange:manuel_klarmelding|Manuel klarmelding]]\\
 
 ==== Rapporter ====
 Brug manglede klarmelding\\

@@ -17,3 +17,4 @@ der er tilføjet statistik\\
 \_
 
 </WRAP>
+Spørgsmål, ændringer, fejl ?[[mailto>vidensbase@krfo.dk?&subject=vidensbase&body=jeg vil gerne have følgende ændring i puma vidensbasen| Send en mail til Vidensbase teamet]]
