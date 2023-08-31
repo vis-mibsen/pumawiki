@@ -1,0 +1,7 @@
+====== Hvordan ser en artikkel ud ?======
+
+  * En artikkel er (forholdsvis) kort
+  * En artikkel har illustrationer (billeder)
+  * En artikkel linker til andre artikler
+  * En artikkel kan indeholde andre artikler/ dele af andre artikler (skriv en gang, brug flere gange)
+  * En artikkel er opdelt i afsnit (som kan ses i "indholdsfortegnelsen")

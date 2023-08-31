@@ -1,0 +1,77 @@
+====== Redigering af artikler ======
+===== Oversigt =====
+==== Redigering ====
+
+  * Indbygget editor
+  * Markup
+  * Forhåndsvisning
+  * Opret ny artikkel
+
+==== Historik ====
+  * Se tidligere versioner
+  * Se forskelle mellem versioner
+  * Gå tilbage til en tidligere version 
+
+===== Editoren =====
+{{:roller:pumawiki_edit2.jpg?1200|}}\\
+
+  * **Fed skrift**
+  * //Kursiv skrift//
+  * __Understreget skrift__
+  * ''monospaced (skrivemaskine) skrift''
+  * <del>gennemstreget skrift</del>
+  * Overskrifter (5 forskellige niveauer)
+====== Overskrift 1 ======
+brødtekst
+===== Overskrift 2 =====
+brødtekst
+==== Overskrift 3 ====
+brødtekst
+=== Overskrift 4 ===
+brødtekst
+== Overskrift 5 ==
+brødtekst
+
+
+Link til andre artikler\\
+Lister\\
+Billeder/medier\\
+Smilyer\\
+Specialtegn\\
+Bokse (WRAP plugin)
+
+Escape (vis formateringstegn mm.):
+
+%% <nowiki> blah blah </nowiki>%%
+
+eller
+
+<nowiki> %% blah blah %% </nowiki>
+
+
+
+Tip: marker tekst, og "påfør" markup.
+
+Tip: Brug forhåndsvisning til at se dine ændringer
+
+Opret ny side: lav et link til siden, klik på linket og vælg "opret denne side"\\
+
+===== Historik =====
+
+klik på "Gamle revisioner" til højre for artiklen
+
+==== Vis forskelle ====
+
+
+Vælg to og klik på "Vis forskelle i forhold til de valgte revisioner"
+
+==== Gendan gammel version ====
+
+
+Klik på linket til den ønskede version. Klik på "Gendan" til højre for artiklen
+
+
+
+
+
+

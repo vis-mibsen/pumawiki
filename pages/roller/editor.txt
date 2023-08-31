@@ -51,6 +51,9 @@ Hvis du er i tvivl om hvordan det du skriver kommer til at se ud er der 2 muligh
 "[[playground:playground|sandkassen]] " hvor du kan afprøve ting, og "forhåndsvisning" knappen under editoren.\\
 
 
+[[kursus:redaktoer_kursus|redaktoer_kursus]]
+
+
 
 
 

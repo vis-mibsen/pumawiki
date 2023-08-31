@@ -1,0 +1,7 @@
+====== Kursus for PUMA vidensbase redaktører ======
+
+  * [[kursus:puma_vidensbase|Lidt om PUMA Vidensbase]]
+  * [[kursus:dokuwiki|Lidt om DokuWiki framework]]
+  * [[kursus:opbygning|Lidt om PUMA vidensbasens opbygning]]
+  * [[kursus:artikler|Om Artikler]]
+  * [[kursus:redigering|Redigering]]

@@ -1,0 +1,33 @@
+====== Hvad er DokuWiki ? ======
+
+DokuWiki er et wiki framework
+
+DokuWiki er ikke MediaWiki (wikipedia)
+
+...Men det ligner lidt...
+
+
+  * Konfigurerbart
+    * Layout (Header, Footer, søgning, værktøjer)
+    * Plugins (Wrap, include, folded...)
+    * Konfig filer 
+  * Uden database
+  * Men med Cache
+  * Og index
+  * OpenSource (gratis ! + online community)
+
+Hvad er der i kassen:
+  * Opret/rediger artikler: indbygget editor
+  * Se historik
+  * Se tidligere versioner / gå tilbage til tidligere version
+  * Index
+  * Søgning
+
+Hvordan virker det:
+
+  * Webbaseret
+    * Du skal kun bruge en browser
+    * Links mellem artikler
+    * Nemt at lave "Look & Feel"
+
+Næste: [[kursus:opbygning|opbygning af PUMA vidensbasen]]

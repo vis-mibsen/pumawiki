@@ -1,0 +1,20 @@
+====== PUMA Vidensbasens opbygning ======
+
+===== De 6 "søjler" =====
+  - Dialoger
+  - Arbejdsgange
+  - Roller
+  - Ofte stillede spørgsmål
+  - Releasenoter
+  - Regler og bekendtgørelser
+
+Er indgange fra startsiden
+
+Artikler kan linke til hinanden
+
+Artikler er opdelt i namespaces: giver overblik, men begrænser ikke
+
+Mulighed for fleksibilitet i struktur/opbygning
+
+Næste: [[kursus:redigering|redigering]]
+

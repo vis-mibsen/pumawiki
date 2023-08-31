@@ -1,0 +1,17 @@
+====== Hvad er PUMA vidensbase ? ======
+
+Vidensbasen er en wiki
+  * Online
+  * Webbaseret (HTML/Browser)
+  * Kollaborativ (?)
+  * Opslagsværk
+
+Online: Vi er jo digitale
+
+Webbaseret: Web er det nye sort. Du behøver kun en browser
+
+Kollaborativ: I lave det selv ;-)
+
+Opslagsværk: alt hvad der er værd at vide (om PUMA), nemt at finde
+
+Baseret på[[kursus:dokuwiki| DokiWiki framework]]
