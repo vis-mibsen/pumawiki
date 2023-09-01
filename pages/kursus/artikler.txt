@@ -5,3 +5,5 @@
   * En artikkel linker til andre artikler
   * En artikkel kan indeholde andre artikler/ dele af andre artikler (skriv en gang, brug flere gange)
   * En artikkel er opdelt i afsnit (som kan ses i "indholdsfortegnelsen")
+
+Videre til [[kursus:redigering|redigering af artikler]]

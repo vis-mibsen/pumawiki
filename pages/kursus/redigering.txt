@@ -12,8 +12,12 @@
   * Se forskelle mellem versioner
   * Gå tilbage til en tidligere version 
 
+==== Andre funktioner ====
+  * Hvad linker her
+
 ===== Editoren =====
 {{:roller:pumawiki_edit2.jpg?1200|}}\\
+
 
   * **Fed skrift**
   * //Kursiv skrift//
@@ -38,7 +42,7 @@ Lister\\
 Billeder/medier\\
 Smilyer\\
 Specialtegn\\
-Bokse (WRAP plugin)
+Bokse ([[kursus:wrap|WRAP]] plugin)
 
 Escape (vis formateringstegn mm.):
 
@@ -70,6 +74,10 @@ Vælg to og klik på "Vis forskelle i forhold til de valgte revisioner"
 
 Klik på linket til den ønskede version. Klik på "Gendan" til højre for artiklen
 
+
+===== Andre funktioner =====
+
+Hvad linker her ? ("Henvisninger bagud")
 
 
 

@@ -1,0 +1,42 @@
+====== WRAP plugin ======
+
+  - "Kasser"
+  - Kolonne layout
+
+<WRAP center round box 60%>
+simpel centreret boks
+</WRAP>
+
+<WRAP center round info 60%>
+info boks
+</WRAP>
+
+1 <wrap em>specielt fremhævet</wrap> 2
+
+<WRAP navbox>
+navbox: "bruger" defineret"
+</WRAP>
+
+<WRAP group>
+<WRAP quarter column>
+række 1\\
+række 2 kolonne 1
+</WRAP>
+
+<WRAP quarter column>
+række 1\\
+række 2 kolonne 2
+</WRAP>
+
+<WRAP quarter column>
+række 1
+</WRAP>
+
+<WRAP quarter column>
+række 1
+</WRAP>
+
+</WRAP>
+
+
+
